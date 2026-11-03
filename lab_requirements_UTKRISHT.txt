@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+numpy
+pandas
+scikit-learn
+pillow
+datasets
+sacrebleu
+ipykernel
+nbformat

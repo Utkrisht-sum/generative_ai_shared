@@ -1,0 +1,5 @@
+data/
+gan_lab_student/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
