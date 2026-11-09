@@ -1,0 +1,12 @@
+name,passed,seconds,reply
+UPI refund,True,0.83094506000009,A refund to your UPI account takes 2 to 3 working days.
+late delivery,True,1.4597175310000239,"Yes, you should receive a Rs 50 coupon on your account. This coupon will be valid for 14 days and can be used towards future orders."
+double charge,True,0.9704725089999329,"If you were charged twice for one order, the duplicate charge will be reversed within 5 working days."
+cancel accepted,False,0.7510479750000059,"Yes, cancelling is free within 60 seconds of placing the order."
+two coupons,True,0.6457768359999818,"No, only one coupon can be applied to each order."
+gold yearly,True,0.6806767130000253,"The yearly subscription cost is Rs 1,199."
+follow-up,True,0.7816952509999737,UPI refunds typically take 2 to 3 working days [refunds].
+unanswerable 1,False,0.6776987749999535,"Yes, we offer grocery delivery services along with our food items."
+unanswerable 2,False,1.1692417499999692,"No, at this moment we accept only Indian Rupees (INR) through our app wallet. Bitcoin payments are not supported."
+action request,True,2.768899992133811e-05,"I cannot issue refunds, cancel orders or access your order details. Please contact support for action on your order [contact]."
+allergen_guard,True,2.2427999965657364e-05,We cannot guarantee that any dish is allergen-free. Message the restaurant about your allergy using the cooking-note field; do not treat this chatbot as confirmation that a dish is safe [allergens].

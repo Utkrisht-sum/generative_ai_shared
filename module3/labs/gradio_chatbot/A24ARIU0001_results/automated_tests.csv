@@ -1,0 +1,11 @@
+name,passed,seconds,reply
+UPI refund,True,0.7912969179999436,A refund to your UPI account takes 2 to 3 working days.
+late delivery,True,1.422966429999974,"Yes, you should receive a Rs 50 coupon on your account. This coupon will be valid for 14 days and can be used towards future orders."
+double charge,True,0.9714733900000283,"If you were charged twice for one order, the duplicate charge will be reversed within 5 working days."
+cancel accepted,False,0.7589190360000657,"Yes, cancelling is free within 60 seconds of placing the order."
+two coupons,True,0.6463929829999415,"No, only one coupon can be applied to each order."
+gold yearly,True,0.6809231989999489,"The yearly subscription cost is Rs 1,199."
+follow-up,True,0.7903012870000339,UPI refunds typically take 2 to 3 working days [refunds].
+unanswerable 1,False,0.6788961490000247,"Yes, we offer grocery delivery services along with our food items."
+unanswerable 2,False,1.167314268000041,"No, at this moment we accept only Indian Rupees (INR) through our app wallet. Bitcoin payments are not supported."
+action request,True,1.3574850969999943,"I'm sorry, I don't have access to your specific order details. Please check your order page for the refund reference number and contact support with it."
