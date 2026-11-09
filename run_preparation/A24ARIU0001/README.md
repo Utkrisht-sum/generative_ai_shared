@@ -75,12 +75,18 @@ Transformers version: the original failed, the corrected version accepted the
 intended configuration, and six incorrect configurations were rejected. These
 are implementation checks, not experiment measurements.
 
-At the last runtime check, this cloud machine had zero CUDA devices and no Kaggle
-authentication. Kaggle and Hugging Face connections returned proxy HTTP 403.
-Git HTTPS reads work; GitHub API requests are blocked by the current network
-policy. The environment draft contains a secure KAGGLE_API_TOKEN requirement
-scoped to www.kaggle.com and adds api.github.com for pull-request operations.
-Those saved requirements do not themselves apply access or start a run.
+The preparation machine has zero CUDA devices. After environment publication,
+GitHub API access works and the KAGGLE_API_TOKEN binding is present and ready.
+The official Kaggle 2.2.5 client authenticates through api.kaggle.com, which is
+still blocked by the running network policy. A rule for that host is saved in
+the new draft. The existing credential must also allow api.kaggle.com as a
+destination, alongside www.kaggle.com; that destination change requires editing
+the existing credential in environment settings. No new token is required.
+Full Kaggle authentication and GPU-job availability remain unverified.
+
+The preparation now has draft PR #3 in the fork. The course repository also has
+open PR #127 for the Lab 1/Lab 5 corrections and PR #160 for the completed GPT-2
+lab. These open pull requests have not been merged.
 
 Nothing in this folder submits a competition entry or merges a pull request
 automatically. Submission should use completed, verified artifacts.

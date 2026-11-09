@@ -22,9 +22,17 @@ training runs or new model-quality measurements.
   saved outputs, not a new run or proof of course acceptance.
 - Live GitHub pages confirmed GPT-2 fork PR #1 is merged and Gradio fork PR #2 is
   still a draft. The Gradio head is f6831dc2139662ddd829d84e6e9bed6d9670e0b0.
-- Native Git reads succeeded. The GitHub API request returned Forbidden. No Kaggle
-  token or CUDA device was present. GPU training and final submissions were not
-  performed by these checks.
+- Native Git reads succeeded. At preparation time, the GitHub API request returned
+  Forbidden, and no Kaggle token or CUDA device was present. GPU training and
+  final submissions were not performed by these checks.
+- After the environment was published, GitHub API reads succeeded and preparation
+  draft PR #3 was created. The current Kaggle token binding reports ready, but
+  authentication through the official client's api.kaggle.com endpoint returned
+  proxy HTTP 403. The running policy and the credential destination list do not
+  include that host. A network-rule addition is saved in the draft; the settings
+  tool requires editing the existing credential destination list in the UI.
+- Course-repository PR #127 (Lab 1/Lab 5 corrections) and PR #160 (GPT-2) were
+  confirmed open, unmerged and clean. No duplicate submission PR was created.
 
 The Gradio partner study and QLoRA human ratings remain pending. Their blank
 templates have not been filled with simulated observations.
