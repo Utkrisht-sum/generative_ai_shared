@@ -1,0 +1,33 @@
+{
+  "prediction_rows": 60,
+  "recomputed_metrics": {
+    "base": {
+      "rouge1": 32.050853145437976,
+      "rouge2": 8.387534211236842,
+      "rougeL": 23.00034300323429
+    },
+    "QLoRA": {
+      "rouge1": 45.51830423371334,
+      "rouge2": 18.571118702583128,
+      "rougeL": 37.112232601717736
+    }
+  },
+  "strict_rougeL_wins": 54,
+  "mean_words": {
+    "reference": 21.533333333333335,
+    "base": 33.31666666666667,
+    "QLoRA": 21.3
+  },
+  "rougeL_mean_difference_points": 14.111889598483446,
+  "paired_percentile_bootstrap": {
+    "replicates": 10000,
+    "seed": 42,
+    "confidence": 0.95,
+    "interval_points": [
+      10.615635151463952,
+      17.970157268454464
+    ],
+    "scope": "Fixed predictions from one training seed; not training-seed uncertainty"
+  },
+  "human_evaluation_complete": false
+}

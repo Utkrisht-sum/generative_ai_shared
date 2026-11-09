@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "base_rouge": {
+    "rouge1": 32.050853145437976,
+    "rouge2": 8.387534211236842,
+    "rougeL": 23.000343003234285
+  },
+  "tuned_rouge": {
+    "rouge1": 45.51830423371333,
+    "rouge2": 18.571118702583128,
+    "rougeL": 37.112232601717736
+  },
+  "strict_rougeL_wins": 54,
+  "minutes": 14.425119551783332,
+  "peak_GB": 6.371631616,
+  "human_review_complete": false
+}

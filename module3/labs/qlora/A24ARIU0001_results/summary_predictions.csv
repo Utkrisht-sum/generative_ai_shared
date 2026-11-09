@@ -1,0 +1,557 @@
+dialogue,reference,base,QLoRA
+"#Person1#: Did you enjoy your weekend at the highland hotel? I heard it's and excellent place to stay and has good facilities.
+#Person2#: I had a wonderful time. The rooms are not very big, but they are well furnished. The restaurant is excellent and reasonably priced. There's a sauna and a Jacuzzi.
+#Person1#: Do they have a swimming pool?
+#Person2#: No, they don't. they have a beauty parlor, but I didn't go there.
+#Person1#: What's the service like?
+#Person2#: It's very good. Check in and check out at the reception only took a few minutes. The wait staff is very good. A waiter recommended their baked fish, which tasted wonderful. The hotel was quite full, so I'd suggest making a reservation if you intend to go there. The hotel offers a discount at the weekends.
+#Person1#: It sounds perfect. Did you have any complaints at all?
+#Person2#: There was a problem with the internet access, so I couldn't check my email, but I didn't complain about it to the management.
+#Person1#: I suppose you were happy to forget about the outside world.
+#Person2#: Yes, I was. Here's their business card.
+#Person1#: Thanks. Was there a mina bar in the room?
+#Person2#: No, there wasn't. There is a bar on the ground floor and of course you can buy drinks in the restaurant to go with your meal.
+#Person1#: One of the things I dislike about hotels is that everyone expects tips.
+#Person2#: I know. At the inland hotel, they have an interesting policy. When you check out, you put some money in a special box at reception. Each evening, the money in the box is shared equally by the hotel staff.","#Person2# enjoys #Person2#'s weekend at the highland hotel because of the hotel's excellent and reasonably priced restaurant and good service. #Person2# introduces the hotel's facilities, weekend discount, and its interesting tip policy and suggests #Person1# make a reservation in advance.","The speaker recommends the Highland Hotel for its excellent facilities, reasonable prices, and good services, including a sauna, jacuzzi, and a discounted weekend rate. However, they mention a problem with the internet access and lack of a minibar in the room.","#Person2# enjoyed her weekend at the highland hotel because the rooms are well furnished, the restaurant is excellent and reasonably priced, and the service is very good. She recommends the hotel for others who want to visit."
+"#Person1#: Right, well, in the studio this morning, for our interview spot is Peter Wilson. Peter works for Green Peace. So, Peter, welcome.
+#Person2#: Thanks a lot. It's good to be here.
+#Person1#: Great! Now, Peter, perhaps you can tell us something about Green Peace and your job there.
+#Person2#: Sure. Well, I'll start by telling you roughly what Green Peace is all about. I actually work in London for the Green Peace organization. We've been going for a few decades and we're a non-violent, non-political organization. We're involved in anti-nuclear activity, conservation and protection of animals and protection and support of our eco-system. I'm the action organizer and arrange any protests.
+#Person1#: Right! A pretty important role, Peter. What sort of protest would you organize?
+#Person2#: Well, recently we've been involved in anti-nuclear campaigns. I've personally arranged for the demonstration against radioactive waste dumping in the Atlantic Ocean. We've got a few small Green Peace boats that we harass the dumping ship with.
+#Person1#: Say? Hold on, Peter. I thought you said your organization was non-violent. What do you mean by 'harass'?
+#Person2#: Well, we circle round and round the ships and get in the way when they try to dump the drums of nuclear waste in the sea. We talk to the men and try to change, you know, yell at them to stop. We generally make ourselves as much of a nuisance as possible. 
+#Person1#: Well, people may think differently of your methods, but there's no doubt you're doing a great job. Keep it up and good luck. And thanks for talking with us.",#Person1# interviews Peter Wilson who is the action organizer of Green Peace organization. #Person1# asks Peter to introduce to the audience what Green Peace is and what work it does. Peter also introduces detailed anti-nuclear campaigns.,"Peter Wilson, an action organizer for Green Peace, discusses his involvement in anti-nuclear protests, including circling around ships to disrupt nuclear waste dumping.",Peter Wilson tells #Person1# about his job at Green Peace. He says he arranges protests against nuclear activities and has personally organized demonstrations against radioactive waste dumping in the ocean.
+"#Person1#: Mary, do you remember when we met?
+#Person2#: I won't ever forget it! I was sitting in the cafeteria all by myself. . .
+#Person1#: And I came up and asked to sit by you. . .
+#Person2#: Oh, it seems like it was just yesterday.",Mary and #Person1# recall the first time they met.,"The conversation is about reminiscing about meeting someone from the past, with #Person1# remembering that #Person2# was alone in the cafeteria and #Person1# coming over to join them.",Mary remembers when she first met #Person1#.
+"#Person1#: What's wrong with you, Lucy?
+#Person2#: Our dog Rusty is lost. Someone left the backyard gate open and he got out. My daughter is so upset right now.
+#Person1#: Have you called the local dog shelters?
+#Person2#: Well, they haven't seen him. They said they would call me if they find our dog, but I don't expect miracles. It's 2 days and...
+#Person1#: We can always look for miracles. Does he have any identification on him?
+#Person2#: He's wearing his sweater. He's brown with white spots and... Sorry, 'm not thinking straight. You know, he's a big part of our family. We got him when he was a little puppy. I'm just worried he was stolen or is injured somewhere.
+#Person1#: I understand. I used to pet dogs, too. Let's walk around the neighborhood. Hey, look! There he is.
+#Person2#: Rusty! Come here boy! Oh, Glenn, I can't thank you enough. I owe you a big favor.",Lucy's dog Rusty was lost. Glenn asks Lucy about Rusty's identification and helps Lucy find Rusty when they walk around the neighborhood.,"Lucy's dog Rusty went missing after someone left the backyard gate open. After calling local dog shelters who didn't see him, she decided to search the neighborhood herself. When they found Rusty, she thanked Glenn for helping her reunite with their furry friend.",Lucy tells #Person1# that her dog Rusty is lost. #Person1# helps them look for it.
+"#Person1#: Adam, could you show me around the school? 
+#Person2#: No problem. 
+#Person1#: What's the tallest building? 
+#Person2#: You mean the white building near the playground? 
+#Person1#: Yes. 
+#Person2#: That is the library. And it has more than 1, 000, 000 books. 
+#Person1#: What's the building to the south of the library? 
+#Person2#: You know, our school is divided into two parts, the junior high school and the senior high school. That is the new classroom building for our senior high school. 
+#Person1#: Is there a swimming pool in your school? 
+#Person2#: Yes. There is a large swimming pool, but it is only available in summer. 
+#Person1#: I do envy you. And I hope I can enter your school one day. 
+#Person2#: I believe that you can make your dream come true. ",#Person1# asks Adam to show #Person1# around the school. #Person1# envies Adam and hopes to enter Adam's school one day.,"Adam asks #Person2# to show him around the school, and #Person2# shows him the tallest building (the library) with over 1 million books. #Person2# then identifies the building to the south of the library as the new classroom building for their senior high school. #Person1# expresses envy at having such facilities and hopes to attend the school someday.",Adam shows #Person1# around his school. #Person1# asks about some buildings and facilities.
+"#Person1#: Hi, Sally.
+#Person2#: Hello, Tom. How are you?
+#Person1#: I'm fine. Where are you going?
+#Person2#: Oh, I'm on my way home from work.
+#Person1#: I didn't know you had a job.
+#Person2#: Yeh. I work part-time at a supermarket.
+#Person1#: What do you do there?
+#Person2#: I work in the produce section. Trimming and wrapping fresh fruit and vegetables. I also stock shelves. Sometimes when it really gets busy, work at the check-out counter. Have you got a job, Tom?
+#Person1#: Yeh. I do yard work for people. You know, cutting grass, raking leaves. pulling weeds, things like that.
+#Person2#: I'd like doing that. It must be nice to work outdoors.
+#Person1#: Sometimes it is. Except when it rains or snows or gets too hot or too cold or...
+#Person2#: Ha. Ha. I think every job has its shortcomings. There are times when get pretty tired of carrying things around at my job. But a job's a job Gotta earn money for school.
+#Person1#: Me, too. Tuition is sure high, isn't it? Well, I'd better get going. I've got to plant some trees for my neighbours this afternoon.
+#Person2#: Well, don't work too hard. Holding down a job, going to class, studying. Sometimes it can become too much for one person. Take it easy.
+#Person1#: You, too. It was great seeing you. Sally!","Sally and Tom talk about their job. Sally works part-time in a supermarket, while Tom does yard work for people. They both agree that every job has its shortcomings but they need to work to earn money for school.",Tom works part-time at a supermarket while Sally does yard work for neighbors. Both discuss their jobs and the challenges they face balancing them with other responsibilities.,Tom tells Sally he works part-time at a supermarket while Sally says she does yard work for people. They both feel their jobs have their own advantages and disadvantages.
+"#Person1#: Good morning, I'm Daniel. I'm applying for the positon of manager. 
+#Person2#: Yes. Sit down, please. How did you learn about our company? 
+#Person1#: I got to know your company through such famous brands as LUX, LIPTON and WALLS. After making a customer survey, I was glad to find out how your products are appreciated by millions of Chinese. 
+#Person2#: Why would you like to work with us? 
+#Person1#: It's the job I'm interested in. And your company is the best-known. Although I don't have much experience as a manager, the job description you sent to me was very interesting. It's a job I've been dreaming of and I feel suited to fill it. 
+#Person2#: Oh, really? Would you transfer to another company if it is not what you expected? 
+#Person1#: I don't think so. As the saying goes, A great oak needs deep roots. I'm really interested in this job. 
+#Person2#: That's fine. Thanks for coming to see us. I hope to be able to let you know about the job within the week. ","Daniel applies for the position of manager, and #Person2# interviews Daniel. Daniel talks about how he learned about the company and why he'd like to work here.","Daniel learned about the company through popular brands and conducted a customer survey, then applied for the position of manager at the company. The interviewer asked him why he wanted to work there and his response indicated that he had high expectations for the job and believed that the company culture matched his values.",Daniel applies for the position of manager at the company because he learned about the company from famous brands and thinks the job description is interesting. He will stay with the company even though it isn't what he expected.
+"#Person1#: Hi, Wendy.
+#Person2#: Oh, Johnny. How are you doing, busy?
+#Person1#: No, not at all. I've been a couch potato lately, killing time by watching TV. Oh, by the way, did you hear the news?
+#Person2#: No. What is it?
+#Person1#: They are going to turn the city square into an amusement park.
+#Person2#: Wonderful! I'm glad that big ugly things will be gone.
+#Person1#: You really are? In my opinion, the square is 100 times better than an amusement park.
+#Person2#: I don't see why.
+#Person1#: The square is a symbol of our city and it is a nice place to have a walk for everybody.
+#Person2#: Well, I don't know if that huge and boring thing can be our symbol, but I know for sure the city has tens of parks where you can take a nice walk.
+#Person1#: I know what you mean, but don't you think that we will no longer have peace and quiet once the amusement park opens?
+#Person2#: Does that matter? To me, more importantly, the amusement park means employment.
+#Person1#: So what?
+#Person2#: Income. If you have income, you have money to spend, and in turn, it'll create more jobs.","Johnny tells Wendy the city square will be turned into an amusement park. Johnny thinks they will lose their city's symbol and a quiet place for a walk, but Wendy thinks the park will create more income and jobs.","Johnny discusses plans to convert the city square into an amusement park with his friend Wendy, who believes it would bring economic benefits but worries about losing privacy.",Johnny tells Wendy he's a couch potato because he watches too much TV. He thinks the city square should stay as it is while Wendy thinks the square is better than an amusement park. Johnny thinks the amusement park means employment.
+"#Person1#: Can I help you, sir?
+#Person2#: Yes, what sort of warranty comes with this stereo?
+#Person1#: Well, our store offers a 90 - Day return policy and the manufacturer offers a one-year warranty on any factory defects.
+#Person2#: What conditions are there on the store policy?
+#Person1#: We'll give you your money back as long as the stereo is returned in the original packaging and with a receipt.
+#Person2#: O. K. How do I get the manufacturer's warranty?
+#Person1#: Just send in the warranty card with a copy of your receipt.
+#Person2#: All right, those sound good. I'll take it.
+#Person1#: Very well, I can ring you up over here, sir.","#Person1# asks #Person2# the sort of warranty comes with the stereo, the conditions of the store policy, and how to get the manufacturer's warranty.","The customer wants information about warranties for a stereo, which the store employee provides details about their store's 90-day return policy and the manufacturer's one-year warranty. The customer then decides to purchase the stereo.",#Person1# tells #Person2# about the store's 90-Day return policy and the manufacturer's one-year warranty. #Person2# will take them.
+"#Person1#: Well, Mike, nowadays there's much talk about nanometer. But what on earth is it?
+#Person2#: Nanometer is a length scale. It's one billionth of a meter, roughly ten times the size of an individual atom.
+#Person1#: Hmm. . . it's hard to figure out the exact size, I'm afraid.
+#Person2#: Well, let's make it this way. For comparison, 10 NM is 1000 times smaller than the diameter of a human hair. There are as many nanometers in an inch as there are inches in 400 miles.
+#Person1#: I see. Thank you.",Mike explains the concept of nanometer to #Person1#. #Person1# understands it.,"#Person2# explains that nanometer is a measurement of length equal to one billionth of a meter, and compares its size to that of an atom. #Person1# finds it difficult to understand the concept but thanks #Person2#.",Mike explains to #Person1# what nanometer means and how big it is.
+"#Person1#: Oh, man. Nobody can stand this kind of burning heat.
+#Person2#: Tell me about it. You can't even stay in the sun for 5 minutes.
+#Person1#: You'll be dried up like a dried plant.
+#Person2#: I like your humor, Mark. Anyway I guess this afternoon, there is nothing we can do but stay home.
+#Person1#: I guess so. I don't want to be taken to the hospital.
+#Person2#: You want my advice? Drink a lot of liquids and avoid the worst heat.
+#Person1#: Yeah, you're right. Go to drink a lot of fluids. Do you have any beer?
+#Person2#: Yes, do you want Coors Light or Corona?
+#Person1#: Corona, please.","Mark complains about the burning heat. #Person2# suggests drinking lots of liquids, so they will drink beer.","The two friends discuss the extreme heat and decide to stay at home, with #Person1# suggesting drinking lots of water and avoiding the hottest part of the day while #Person2# offers them some beer from their fridge.",Mark tells #Person2# he's too hot and wants to go home. #Person2# advises him to drink lots of water and asks for some beer.
+"#Person1#: Ghost will be on at six thirty. It's already six fifteen now. Hurry up. 
+#Person2#: You'd been hanging around before left home. Well, now, you are urging me for the movie. This has been fun! 
+#Person1#: Don't be upset. I am just afraid of missing the movie. It is your favorite. 
+#Person2#: In short, you become more and more impatient with me after wedding. 
+#Person1#: Why do you think so?? 
+#Person2#: Every time I complain about the domestic chores with you, you just don't listen. 
+#Person1#: Nothing of the sort! 
+#Person2#: Don't interrupt me! In addition, every time I need your advice, you just say, it's up to you. 
+#Person1#: Maybe I was busy with my work at that time, so I felt a little bored. 
+#Person2#: You mean, I am not busy with my work? 
+#Person1#: Honey, don't get me wrong. I don't know how to explain. But I really have eyes only for you and our children. 
+#Person2#: Do you still love me? 
+#Person1#: Honey, maybe sometimes I seem careless, but I take great care to cooking breakfast every morning. That shows how much I love you. 
+#Person2#: Oh, honey, that's enough. Our love story is more touching than the Ghost. 
+#Person1#: Let's go to see the movie. It's time to begin. ","#Person2# thinks #Person1# is impatient and might not love #Person2# anymore, but #Person1# reassures #Person2# and they will watch the movie together.",The couple discusses their relationship and plans to watch a movie together.,#Person1# asks #Person2# to hurry because #Person1# is afraid of missing the movie. #Person2# thinks #Person1#'s impatient with her and doesn't listen when she complains about the domestic chores. #Person1# says he loves #Person2# and takes care of #Person2#.
+"#Person1#: Do you remember what the ratings of movies stand for?
+#Person2#: Yes, G stands for General Audiences, PG means Parental Guidance suggested, R is restricted to audiences under 18 and X means explicit content.
+#Person1#: Does anyone pay any attention to those ratings anymore?
+#Person2#: Remember when we were kids? Theaters wouldn't let kids in to PG moves without a parent.
+#Person1#: I remember that I never saw an X moves even displayed.
+#Person2#: Now with video rentals it's all a personal matter.
+#Person1#: Yea, I never see theaters turn people away for their age anymore either.
+#Person2#: Now we have to make a choice about what we will see and what we won't.","#Person1# and #Person2# agree that no theater pays attention to the ratings of movies anymore. Now with video rentals, it's all a personal matter.","The conversation discusses how movie ratings have changed over time, from being strictly enforced by theaters to becoming more of a personal decision made through online platforms like video rentals.",#Person2# remembers the movie rating system from childhood but now people can choose freely.
+"#Person1#: Will you be joining Billy and I at the Bar?
+#Person2#: Which one will you be going to?
+#Person1#: We are going to try the new one that opened up on 17th Street.
+#Person2#: Sure, I've been meaning to visit that place myself.
+#Person1#: I want to stop off at my apartment to get changed so I should be there by 9 pm.
+#Person2#: OK, can I bring a date with me?
+#Person1#: Certainly. But if there are going to be four of us, I had better make reservations.
+#Person2#: Yes. that is a very good idea. It would be a shame if we could not find a place to sit.
+#Person1#: Then I'II make reservations for 9 pm for a party of four.
+#Person2#: I'll be there. Oh, is there a cover charge at the bar?
+#Person1#: Not that I know of. Why do you ask?
+#Person2#: I want to make sure I bring enough money for my date and I.
+#Person1#: I hear the drinks and food there are moderately priced. You should be fine.
+#Person2#: One last question. Is there a dress code there?
+#Person1#: No, its very casual there. Leave your jacket and tie at home.
+#Person2#: Perfect. I wanted to have a casual evening tonight.
+#Person1#: I'll see you there at 9pm.
+#Person2#: Okay. See you then.","#Person1# invites #Person2# to the bar. #Person2# concerns about the available seat, cover charge, and dressing code. #Person1# explains to #Person2#.","The conversation revolves around planning a group outing to a new bar, including details about the venue, reservation, attire, and budget considerations.",#Person1# invites #Person2# to join them at the new bar. They decide to go there together because it's their first time visiting. #Person2# wants to bring a date but #Person1# suggests making reservations. #Person2# asks about the dress code and #Person1# tells him he doesn't need to wear anything special.
+"#Person1#: Good morning. May I help you, sir?
+#Person2#: Yes. I want to make a remittance to New Delhi.
+#Person1#: Do you want an international money order or a banker's draft?
+#Person2#: I'd like a banker's draft please. It's not really urgent.",#Person2# makes a remittance to New Delhi by banker's draft with #Person1#'s assistance.,The customer wants to send money to India using a banker's draft and is willing to wait for it.,#Person2# wants to make a remittance to New Delhi and asks for a banker's draft.
+"#Person1#: Susan, Is the manager in this office?
+#Person2#: Yes. But he is meeting a client.
+#Person1#: Oh, that's too bad. I just got a phone call saying that my wife is now in the hospital. She is going to deliver a baby. I must take the day off to go to the hospital. May I talk to him to ask for leave?
+#Person2#: I am afraid not, but I think I could convey your leave to him after the client goes.
+#Person1#: Oh, that's very kind of you. Thank you very much. I've got to go.",#Person1# has to ask for leave because #Person1#'s wife is in the hospital. Susan will convey #Person1#'s leave to the manager.,The manager will not be available to speak with #Person1#. #Person1# plans to take time off to visit his wife at the hospital and asks #Person2# if he can pass along his request for leave on behalf of #Person1#.,Susan tells #Person1# she can't help because the manager is meeting a client.
+"#Person1#: I like chess better than xiangqi. And you?
+#Person2#: For my part, xiangqi. Maybe it's because my girlfriend is Chinese.
+#Person1#: I think chess is more reasonable. You see, each side has eight pawns, a larger number than that of the soldiers in xiangqi. A true battle should be like that. Soldiers should outnumber the commanders.
+#Person2#: Quite right. And unlike the soldiers in xiangqi, the pawns in chess can promote once they reach the furthest rank. It is very agreeable to grant merits to people with good performance.
+#Person1#: Correct! Another contrast is the rules for the general and the king. It seems the general or marshal in xiangqi is much too incompetent. They are required to stay in the palace, waiting to be checked and fleeing for life under the cover of the guards. Look at the king in chess, he is much more capable.
+#Person2#: Yeah, and though the king in chess doesn't have bodyguards, he has a queen who is the most powerful piece. I think this demonstrates the relatively higher social status of aristocratic women in medieval Europe than in China.
+#Person1#: There's another distinctive contrast. Both board games use a total of 32 pieces, but xiangqi is played on a 9 - by - 9 board, bigger than the 8 - by - 8 board used in chess.
+#Person2#: You mean, xiangqi pieces are allowed a larger space in which to move around?
+#Person1#: Sure. On a chessboard, fire is much more intensive. It has a smaller board, while those bigger pieces-chariots, horses and bishops-can cover longer distances.","#Person1# and #Person2# discuss the differences between chess and xiangqi. Both of them think chess is more reasonable than xiangqi in certain rules, but #Person1# think xiangqi has a larger space in which to move around.","#Person1# prefers chess over xiangqi due to its larger pawn count and promotion system, while #Person2# favors xiangqi because his girlfriend is Chinese and finds the game more representative of Chinese culture. Chess emphasizes strategic depth through promotions and mobility, whereas xiangqi focuses on positional advantage and the ability of generals to command troops effectively. The contrasting rules regarding generals and kings also highlight different approaches to leadership and warfare. Chess features a wider playing area (9x",#Person1# likes chess better than xiangqi. #Person2# thinks chess is more reasonable. They talk about the differences between chess and xiangqi.
+"#Person1#: Adam. I'm sorry.
+#Person2#: Where have you been, Alice, you're over an hour late.
+#Person1#: Yes, But I couldn't help it. I was late getting off work for a start and then I miss the bus. The bus I did catch that stuck in the traffic jam. It was one thing after another.
+#Person2#: why ere you getting off work so late? The office close at six, doesn't it?
+#Person1#: Yes. But those are the rush in that moment. And my boss ask me to do some urgent letters.
+#Person2#: Didn't you tell him you have an appointment?
+#Person1#: Well, no. I thought I ' Ve finish in five minutes. and I didn't want to be difficult about just few minutes, if I hadn't been missing the bus and in the traffic I wouldn't have been so late. I'm sorry.
+#Person2#: Well. You're here.",Alice is over an hour late for the appointment with Adam. She explains the reason for her lateness and apologizes.,"Adam is apologizing because he got off work late due to unexpected delays, including catching a delayed bus and being caught in a traffic jam.",Alice is late because she missed the bus and got off work late. She tells Adam her excuse.
+"#Person1#: Hi young lady. How may I help you?
+#Person2#: Well, ... yeah. I'm looking for a Father's Day gift.
+#Person1#: Okay. How about getting your father a new wallet?
+#Person2#: Hmm. How much is that wallet?
+#Person1#: Huh ... which one?
+#Person2#: The black one.
+#Person1#: Oh. It's only $40.95.
+#Person2#: Huh? That's too expensive for me. Do you have a cheaper one?
+#Person1#: Hmm. How about this brown leather one?
+#Person2#: Umm... I don't think my father will like the design on the outside, and it doesn't have a place to put pictures. How much is it anyway?
+#Person1#: It's $25.99.
+#Person2#: Humm. I don't have that much money.
+#Person1#: Okay. How much money do you have to spend?
+#Person2#: I'm not sure [money falling on the table]. Probably about ten dollars or so. I've been helping my mom around the house for the past week to earn some money. This is all I have.
+#Person1#: Hmm. How about this tie?
+#Person2#: That's real pretty, but the price tag says $13.99, and I know I don't have that much money.
+#Person1#: Well, let's just say the tie went on sale. How about $5.00. What do you say?
+#Person2#: Oh, thanks. I'll take it.","#Person2# is looking for a Father's Day gift, but she only has $10 or so even though she has been helping with housework for the past week to earn money. #Person1# sells a tie worth $13.99 to her at the price of $5.","The woman is shopping for a Father's Day gift with her friend who has limited funds. She finds a brown leather wallet at $25.99, then considers a brown leather tie at $5.00.","#Person2# wants to buy a Father's Day gift for her dad. #Person1# recommends a wallet, a brown leather wallet, and a tie. #Person2# finally takes the tie because she has enough money."
+"#Person1#: I have to do some shopping.
+#Person2#: What are you going to look for?
+#Person1#: I'm trying to buy a new bedroom set.
+#Person2#: What store are you going to?
+#Person1#: I'm not sure.
+#Person2#: You don't know?
+#Person1#: I have no idea where to find one.
+#Person2#: Would you like me to tell you where I got mine.
+#Person1#: I would appreciate that.
+#Person2#: I went to get mine from IKEA.
+#Person1#: Is the furniture at IKEA cheap?
+#Person2#: They're not cheap, but neither is their furniture.",#Person1# wants to buy a new bedroom set but doesn't know where to buy. #Person2# recommends IKEA.,"#Person1# needs help finding a new bedroom set and #Person2# suggests visiting IKEA, which has helped them purchase furniture there.",#Person1# wants to buy a new bedroom set and asks #Person2# about it. #Person2# tells #Person1# she bought hers from IKEA.
+"#Person1#: So what's wrong with the drain?
+#Person2#: It's clogged and water won't go down.
+#Person1#: Let me take a look. You know why? It's clogged with hair. No wonder water won't go down.
+#Person2#: Well, I guess people who lived here before didn't clean the bathtub.
+#Person1#: You're darn right!
+#Person2#: What should I do now?
+#Person1#: Don't worry. I'Ve got some acid here. It will help dissolve the hair down there.
+#Person2#: Ur, it stinks!
+#Person1#: Now you know you have to clean your bathtub every time when you use it.",#Person1# helps #Person2# to dissolve the hair that clogs the drain and tells #Person2# to clean the bathtub.,"The drain is clogged with hair from previous occupants, requiring cleaning with acid to remove it. The speaker suggests that future users of the tub should clean it after each use to prevent further clogging.",#Person2#'s drain is clogged with hair. #Person1# helps #Person2# clean the bathtub.
+"#Person1#: I'm so hungry. Shall we go eat now, Rick?
+#Person2#: sure. Where do you want to go? Are you in the mood for anything in particular?
+#Person1#: how about some dumplings? I just can't get enough of them.
+#Person2#: dumplings again? ! Oh, Amy, let's try something new!
+#Person1#: well, what do you have in mind?
+#Person2#: how about the Mongolian hot pot?
+#Person1#: oh, it's too spicy for me. Don't you remember last time when I tasted the lamb? It was so spicy my eyes teared up!
+#Person2#: maybe we can try Yuanyang pot this time. You can choose the non-spicy soup base.
+#Person1#: sounds great. Do they serve noodles? I am in the mood for some tasty noodles as well.
+#Person2#: yes. The sliced noodles they offer are among the most authentic Shanti cuisines.
+#Person1#: great. Let's go!
+#Person2#: wait a minute. Let me throw on a sweater.","Amy wants dumplings, but Rick wants a hot pot. They finally decide to try Yuanyang pot and have some noodles.","#Person1# and #Person2# decide to try the Mongolian hot pot at the restaurant, with #Person2# suggesting a non-spicy soup base, and #Person1# agreeing that they prefer noodles.",Amy and Rick decide to try the Mongolian hot pot because Amy is not in the mood for dumplings anymore. Rick suggests trying Yuanyang pot with non-spicy soup base. Amy likes the idea and decides to go.
+"#Person1#: Pardon me. Are you familiar with this neighborhood?
+#Person2#: Well, I should be. I've lived here all my life. What are you looking for?
+#Person1#: The Post Office.
+#Person2#: Well, the nearest one is about a mile away.
+#Person1#: Oh. Well, I guess I could send a letter.
+#Person2#: There's a mail box up the street. Have you already got a stamp on that letter?
+#Person1#: Yes, I have to register it. How do I walk to the post office from here?
+#Person2#: Go up this street until you get to the main street. Then turn right and walk about four blocks or so.
+#Person1#: Thank you for your help.
+#Person2#: The post office entrance is inside a building complex with some other offices.
+#Person1#: I'm sure I'll find it. If I get lost, I'll ask again.
+#Person2#: There's an American flag out front, and a sign: The U.S. Post Office.
+#Person1#: Thanks again. Bye.",#Person1# asks #Person2# about the location of the post office. #Person2# tells #Person1# the nearest one and how to get there.,"The speaker #Person1# asks if #Person2# knows where the nearest post office is, and #Person2# tells them there's one about a mile away. #Person1# then asks how to get there, and #Person2# directs them to take a specific route through their neighborhood.",#Person1# asks #Person2# how to go to the post office. #Person2# tells #Person1# the way.
+"#Person1#: I've got an idea. Let's make this game even more interesting.
+#Person2#: How? Do you want to play strip-trivia or something?
+#Person1#: Well, if you want to! Seriously, though, let's make a bet.
+#Person2#: Why don't we just make it a friendly game?
+#Person1#: Don't be such a chicken! Whoever loses has to treat everyone to a movie.","#Person2# wants to play the game friendly, but #Person1# wants to make a bet.","#Person1# proposes making their game more interesting with a bet and strip trivia, while #Person2# suggests playing a friendly game without a bet.",#Person1# and #Person2# decide to make a bet for their game.
+"#Person1#: Hi! Is that the new laptop you brought last week? It looks very nice. 
+#Person2#: Yes, it is. Thanks. I'm just surfing on the internet. 
+#Person1#: Here? In this cafe? How can you do that? 
+#Person2#: This cafe offers a wireless internet connection. That means I can get on the net for free while I'm here. Of course , I have to buy a cup of coffee! 
+#Person1#: That's great. Can you do it anywhere? 
+#Person2#: No. you can only do it when the cafe offers a wireless connection. There are only about 10 or 12 places that offer it in this city. 
+#Person1#: So, what programes do you have on your laptop? 
+#Person2#: I've got all the usual ones for word processing and then I have a few for creating and editing photographs. 
+#Person1#: I know you are keen on photography. It's very useful for you to be able to download photos from your digital camera. Then you attach the picture files to emails and send them to anyone, anywhere, at anytime! 
+#Person2#: It's wonderful, isn't it? Would you like to see some photos that I look recently? ","#Person2# tells #Person1# the new laptop's functions, photography program, and how to surf the Internet in the cafe by using the wireless.","The person with the laptop has been using it in a cafe with free Wi-Fi, which allows him to access the internet without charge. The other person mentions having various programs installed on their laptop, including word processors and photo-editing software. They also mention being interested in taking photos and sharing them via email.",#Person2# bought a new laptop and tells #Person1# how he uses it. He has many programs on his laptop and he likes photography.
+"#Person1#: So, now ,have you been asked for an interview, yet?
+#Person2#: Yes, I already have an interview schedule with the manager on Wednesday.
+#Person1#: Oh, that's the day after tomorrow, congratulations. Where will the interview be held?
+#Person2#: In a building which is very close to where you work, we can meet up then, and I'll tell you about it over some coffee.",#Person2# has an interview schedule on Wednesday and will tell #Person1# about it over coffee.,"The person has received an interview invitation from their manager scheduled for Wednesday, and they plan to meet at a nearby location for more information.",#Person2# tells #Person1# #Person2#'s interviewed and will meet the interviewer at the same place.
+"#Person1#: Do you have any shoes like these?
+#Person2#: What size?
+#Person1#: Size five.
+#Person2#: What colour?
+#Person1#: Black.
+#Person2#: I'm sorry. We don't haven any.
+#Person1#: But my sister bought this pair last month.
+#Person2#: Did she buy them here?
+#Person1#: No, she bought them in the U. S.
+#Person2#: We had some shoes like those a month ago, but we don't have any now.
+#Person1#: Can you get a pair for me please?
+#Person2#: I'm afraid that I can't. They were in fashion last year and the year before last. But they're not in fashion this year. These shoes are in fashion now.
+#Person1#: They look very uncomfortable.
+#Person2#: They are very uncomfortable. But women always wear uncomfortable shoes!",The shoes #Person1# wants to buy are out of stock. #Person2# recommends other shoes that are fashionable but uncomfortable.,"The speaker is trying to find similar shoes online, but the seller doesn't have any matching products. The buyer's sister recently purchased a pair of shoes from another country, which may be available again if it was popular enough.",#Person1# wants to buy a black shoe of size 5 from #Person2#. #Person2# tells #Person1# there aren't any left because they were in fashion last year and the year before last.
+"#Person1#: Adam, I'm sorry.
+#Person2#: But, where have you been, Alice? Here over an hour late.
+#Person1#: Yes, but I couldn't help it. I was late getting off work and then I missed the bus. The bus I did catch got caught in a traffic jam. It was one thing after another.
+#Person2#: But, why did you get off work so late? The office closes at 6, doesn't it?
+#Person1#: Yes, but there's a rash on at the moment in my boss asked me to work on some urgent letters.
+#Person2#: But didn't you tell him you had an appointment?
+#Person1#: Well. No, I thought I'd finish in about 5 minutes. If it hadn't been for missing the bus and the traffic, I wouldn't have been so late. I'm sorry!
+#Person2#: Well, near here, and that's the main thing. Though you were late for the movie, we can have dinner together.
+#Person1#: Thank you. I won't be late again.",Alice explains to Adam she's late for the movie because of missing the bus and catching in a traffic jam. Adam thinks they can still have dinner together.,Adam is apologizing because he was late due to unexpected delays (missing the bus and being stuck in a traffic jam). Alice suggests they go out for dinner instead of watching a movie since Adam was late for their date. Adam agrees to make up for his lateness.,Alice is late because she missed the bus and the traffic. She apologizes to Adam and invites him to dinner.
+"#Person1#: I like this table, it looks very strong. Do you think it will look good in your new house?
+#Person2#: I don't think so. My new house is by the beach. I want something that looks like it belongs by the beach.
+#Person1#: What about this one? It looks good.
+#Person2#: It's too dark. I want something light, like the color of sand.
+#Person1#: You're very picky. This one?
+#Person2#: No, it looks too weak, and it's way too dark.
+#Person1#: Alright then, how about this table? It's strong and light.
+#Person2#: Um... Maybe, I'll have to think about it. It also has to be big enough.
+#Person1#: There's no way to please you.",#Person1# and #Person2# are looking for a table for #Person2#'s new house. #Person1# thinks #Person2# is picky.,"The conversation revolves around choosing a table for someone's new home, with both parties discussing style, strength, and appearance preferences.",#Person1# recommends some tables for #Person2#'s new house but #Person2# doesn't like them because they don't match the style of #Person2#'s new house.
+"#Person1#: Good morning. You have reached the Monterrey Bay in.
+#Person2#: Good morning, sir. I'm calling to cancel a reservation.
+#Person1#: Alright. What are the dates for that reservation?
+#Person2#: They are January twenty nineth through February 1.
+#Person1#: OK. Would you like to book a room for another day? We are having a special deal in March if you book a room for 2 days. You get the third day for free.
+#Person2#: No, sir. I've started a new job recently so I won't have anytime off for at least 6 months.
+#Person1#: I see. Well, I do hope you consider our hotel when you get some vacation time so that will be $280 returned to you. Would you like me to put it back on your visa?
+#Person2#: Yes, thank you, sir.",#Person2# tells #Person1# that #Person2# has found a new job and wants to cancel the hotel reservation. #Person1# will return the money.,The customer is cancelling their reservation and considering booking a room with a special deal for an upcoming month. The hotel offers a refund of half the cost for the unused days.,#Person2# calls to cancel a reservation and asks #Person1# to return the money to #Person2#'s visa.
+"#Person1#: I finally found an apartment that I want to rent.
+#Person2#: Where did you see it?
+#Person1#: I saw it in this ad for apartments in today's newspaper.
+#Person2#: You found an apartment in the ads?
+#Person1#: I really did, but what's so great about it is that it's really affordable.
+#Person2#: Tell me about the apartment.
+#Person1#: Well, most importantly the apartment is beautiful.
+#Person2#: How much is the rent for the apartment?
+#Person1#: The rent is $ 725 each month.
+#Person2#: That's pretty cheap for out here.
+#Person1#: That's what I said when I found out how much the rent was.
+#Person2#: Congratulations on the new apartment.",#Person1# tells #Person2# #Person1# finds an beautiful and affordable apartment in the newspape,#Person1# found an affordable and beautiful apartment through an advertisement in their local newspaper. #Person2# congratulates them on finding such a good deal.,#Person1# tells #Person2# #Person1#'s found an apartment and it's affordable.
+"#Person1#: Hello, how are you doing today?
+#Person2#: I ' Ve been having trouble breathing lately.
+#Person1#: Have you had any type of cold lately?
+#Person2#: No, I haven ' t had a cold. I just have a heavy feeling in my chest when I try to breathe.
+#Person1#: Do you have any allergies that you know of?
+#Person2#: No, I don ' t have any allergies that I know of.
+#Person1#: Does this happen all the time or mostly when you are active?
+#Person2#: It happens a lot when I work out.
+#Person1#: I am going to send you to a pulmonary specialist who can run tests on you for asthma.
+#Person2#: Thank you for your help, doctor.",#Person2# has trouble breathing. The doctor asks #Person2# about it and will send #Person2# to a pulmonary specialist.,The person is experiencing respiratory issues and has been referred to a pulmonologist for further evaluation.,#Person2#'s having trouble breathing and #Person1# suggests sending her to a pulmonary specialist.
+"#Person1#: So what made you decide to become a cameraman?
+#Person2#: Well, I didn't watch TV much, so it wasn't that. I had an uncle Who was a film actor, but I hardly saw him. One day I wandered into a library and picked up the biography of a famous cameraman. I loved it and knew then what I wanted to do.
+#Person1#: And you've won several prizes for your work?
+#Person2#: Just one actually. It wasn't like winning a prize for a popular movie or for a special TV advertisement. It was a video for a school program about the development of the cinema.
+#Person1#: So what about plans for the future? Is Hollywood calling?
+#Person2#: Well, I'm less interested in working with famous film stars than with students and film academy actually. They got skills that the ordinary person with no training doesn't have but they haven't been affected by success.
+#Person1#: What do you like best about your job?
+#Person2#: Well, doing interesting work you see the world but your job is and always in wonderful places and you have lots of chances to get to know some interesting actors and directors. That has to be the best bit from my point of view.","#Person1# asks #Person2# about #Person2#'s career as a cameraman. #Person2# tells #Person1# about why #Person2# chose this job, #Person2#'s prizes, future plan, and favorite part of the job.","The conversation discusses how #Person2# became a cameraman after reading a biography of a famous cameraman at a library, and their current career as a cameraman who enjoys working on interesting projects and getting to know talented actors and directors.",#Person2# tells #Person1# how he became a cameraman and his future plans. He likes doing interesting work and getting to know actors and directors.
+"#Person1#: Most of our customers are foreigners. How many foreign languages can you speak, Elizabeth? 
+#Person2#: Two. French and Spanish. 
+#Person1#: And how well can you speak them? 
+#Person2#: Well, French was my best subject at school. I can read and write it pretty well. 
+#Person1#: And how about your Spanish? 
+#Person2#: Well, it's not as good as my French. I can speak it reasonably well, but my written Spanish isn't very good. 
+#Person1#: I see. Well, we have a lot of Spanish customers, but you wouldn't need to write any Spanish here. 
+#Person2#: In that case, I'm fit for the position I think. ","Elizabeth can speak French well. Since #Person1# has many Spanish customers, Elizabeth thinks she's fit for the position.",Elizabeth speaks two foreign languages fluently: French and Spanish. She is qualified for the job because most of their customers speak Spanish.,Elizabeth tells #Person1# she speaks French and Spanish well. Elizabeth thinks she is fit for the position because there are lots of Spanish customers.
+"#Person1#: I came to this lab to have my blood drawn. 
+#Person2#: You are in the right place. Roll up your left sleeve and have a seat. 
+#Person1#: What am I being tested for? 
+#Person2#: Your doctor wants to know what your white blood cell count is. 
+#Person1#: What does my white blood cell count tell him? 
+#Person2#: Usually if your white count is off, the doctor suspects an infection. 
+#Person1#: How much will it hurt? 
+#Person2#: It is only a pin prick. I have to put this tourniquet on your arm to make the vein easier to find. 
+#Person1#: Is that my blood going into that tube? 
+#Person2#: That blood that just filled the tube is all that I needed. Thanks for coming in! ",#Person2# is drawing #Person1#'s blood because the doctor wants to know #Person1#'s white blood cell count.,"The person was tested for their white blood cell count because their doctor wanted to check if there's an infection. The test hurts very little, but the person has to roll up his sleeve and sit down first.",#Person1# comes to the lab to get his blood drawn. #Person2# tells #Person1# about the test and how it hurts.
+"#Person1#: Is this the A housing office?
+#Person2#: Yes, it is. Are you looking for housing for this semester?
+#Person1#: I was hoping to get into something on campus, but my friend told me that everything is full.
+#Person2#: It is, but I can put you on a waiting list, if you would like.
+#Person1#: Please. And in the mean time, can I look at apartments available in the area from this office?
+#Person2#: Yes, here is a catalog that is put out every year with locations that meet campus requirements for As.
+#Person1#: Who do I talk to if I want I to see some of them?
+#Person2#: The individual landlord's numbers are next to each entry. You can call them with any questions you may have.",#Person1# wants to live on campus. #Person2# puts #Person1# on a waiting list and gives #Person1# a catalog with locations that meet campus requirements.,The person wants to find housing on campus and has been placed on a waiting list. They ask about how to view apartment listings in the area. The office provides a yearly catalog listing properties meeting campus requirements and offers contact information for landlords.,#Person1# wants to find an apartment and #Person2#'s office puts out a catalog with information about the apartments.
+"#Person1#: Yes, I'd like to report a theft.
+#Person2#: Okay. Can you tell me exactly what happened.
+#Person1#: Well, I was walking home from work two days ago, enjoying the nature all around me ... the birds, the frogs, the flowing stream ... [Okay, Okay] when this woman knocked me right off my feet, grabbed my stuff, and ran off through the trees. [Hmm]. I was so surprised by the ordeal that I didn't go after her.
+#Person2#: Yeah. Can you describe the woman for me?
+#Person1#: Yeah. He was about a hundred and ninety centimeters tall ...
+#Person2#: Wait. You said a woman robbed you.
+#Person1#: Well, I'm not really sure. [Hmm]. You see, the person was wearing a white and black polka dot dress, a light red sweater over it, and she ... or he ... was wearing a pair of basketball shoes.
+#Person2#: Humm. What else can you tell me?
+#Person1#: Okay. Like I said, the person was about 190 centimeters tall, heavy build, with long wavy hair. She ... or he ... was probably in his or her late 30's. I didn't get a good look at the person's face, but well ... uh ....
+#Person2#: What? Was there something else?
+#Person1#: Well, the person ... had a beard.
+#Person2#: Ah! What was, uh, taken ... exactly?
+#Person1#: Well, just my left shoe. Bizarre, isn't it?
+#Person2#: Ah. The 'bearded woman' has struck again!
+#Person1#: The 'bearded woman'?
+#Person2#: Yeah. It's this man who dresses up like a woman and, for some unknown reason, removes the left shoe from his victims. He's really quite harmless, though, and he usually returns the shoe to the crime scene a couple of days later.
+#Person1#: Hey, he can keep my shoe, and I'll just take off my left shoe every time I walk through the park.",#Person1# reports a theft to a policeman. #Person1# describes the appearance of the thief and the policeman recognizes the bearded woman who often removes the victim's left shoe and returns after days.,"The thief is described as a bearded man who steals people's left shoes, but the victim doesn't want him to have their shoe anymore.",#Person1# reports a theft to #Person2#. #Person1# describes the thief as a woman with a beard. #Person2# thinks it is the same man who robs people.
+"#Person1#: Hello. Capital Hotel. May I help you? 
+#Person2#: Yes, unlikely my flight will be 2 hours due to the fog. Would you please keep my reservation? 
+#Person1#: Sure. May I have your name please? 
+#Person2#: Lincoln. That's L-I-N-C-O-L-N. Thank you. ",#Person1# helps Lincoln to keep the reservation.,Lincoln has booked a hotel room and is unsure about his flight time due to fog. The hotel staff will keep his reservation for him.,Lincoln calls Capital Hotel and asks for his flight reservation kept.
+"#Person1#: Mr. Brown, are your children always kicking up a row like this? I cannot concentrate on my paper.
+#Person2#: Sorry, Mr. Black. I'm trying to make them quiet.
+#Person1#: I'm afraid if the noise goes on, I shall have no alternative but to leave.
+#Person2#: Sorry, sir. Believe me, everything will be all right.",Mr. Black complains about the children's noise to Mr. Brown.,The parents are having trouble with their noisy children who keep disrupting their concentration and peace.,Mr. Black is annoyed because his children are making a lot of noise and he wants to leave.
+"#Person1#: Hi Mary, how's it going? 
+#Person2#: Well, last night I had a big argument with Ann. 
+#Person1#: Terrible. It must be something serious. You two are such close friends. 
+#Person2#: Now that I look back at it, it wasn't that big a deal. I shouldn't have lost my temper. 
+#Person1#: Really? What happened? 
+#Person2#: It's just we've been planning to go the beach for a while, and we decided we could both make it this weekend. Then out of nowhere she called me up, said her boyfriend had made plans and that she need to cancel the trip. I was so angry when she told me that I said she didn't care about our friendship at all. 
+#Person1#: That's pretty harsh. 
+#Person2#: I know, but I was so upset. I mean, come on! Does she have to do everything her boyfriend says? 
+#Person1#: You know she probably feels just as bad. 
+#Person2#: Well, I think I was being a little selfish myself. I know they don't get to see each other very often. 
+#Person1#: Well, in that case I guess maybe you can be more understanding. You shouldn't let a trivial thing like this stand in the way of your friendship. After all you can go to the beach anytime you want. 
+#Person2#: Yeah, I'll call later to patch things up. ",Mary argued with Ann yesterday because Ann needed to cancel their trip and went to her boyfriend's plan. #Person1# tells Mary to be more understanding. Mary will call later to patch things up.,"Mary had an argument with Ann over their planned beach trip, which caused them to lose their temper and feel hurt by Ann's decision to cancel the trip. Mary is now trying to reconcile with Ann.",Mary tells #Person1# she had an argument with Ann because Ann canceled their plan to go to the beach. Mary thinks she should be more understanding.
+"#Person1#: When were you born may I ask?
+#Person2#: On 20th May 1963.
+#Person1#: Do you know what it was according to the lunar calendar?
+#Person2#: 27th day of the fourth month.
+#Person1#: By the way, could you tell me when the film will begin?
+#Person2#: It will begin at five thirty.
+#Person1#: I am frigid I can't be there on time.
+#Person2#: You can see it tomorrow.
+#Person1#: I don't want to miss it today.
+#Person2#: See you.
+#Person1#: See you.",#Person1# asks #Person2# about #Person2#'s birthday and the starting time of the film.,"The conversation is about scheduling for an event that occurred on May 20, 1963 (May 27, 1963 according to the lunar calendar), and involves discussing the timing of the event with someone named #Person2#. #Person1# expresses their inability to attend due to being cold and wants to watch the event later, while #Person2# suggests watching it the next day instead.",#Person2#'s birthday is on 20th May and #Person1# wants to watch the movie but #Person1# won't be there on time.
+"#Person1#: Passport, please!
+#Person2#: Here you are.
+#Person1#: Are you Chinese?
+#Person2#: Yes, I am.
+#Person1#: Where in China are you from?
+#Person2#: Fujisan Province.
+#Person1#: There are a lot of people from China visiting right now.
+#Person2#: It's not surprising. Our school year just ended, and a lot of Chinese are on vacation.
+#Person1#: How long do you plan to stay?
+#Person2#: About half a month.
+#Person1#: All right. Here's your passport. Welcome to Australia.
+#Person2#: Thank you.",#Person1# checks #Person2#'s passport and asks about #Person2#'s intention and plan of visiting Australia.,A person with a Chinese passport is being welcomed into Australia after visiting for about half a month.,#Person1# asks #Person2# about #Person2#'s nationality and plans to stay in Australia.
+"#Person1#: My car doesn't always start in the morning and it often makes me late for work. I think I'd better buy a new car.
+#Person2#: Gina you should go to Jimmy's garage. I take my car there all the time. They have 20 years of experience and they are especially good at repairing older cars.
+#Person1#: Thank you, the last time I took my car to a garage. They didn't really settle the problem.
+#Person2#: Well, you should call and make an appointment now. They do a good job. They are usually not busy after 6:00 o'clock.",Gina's car doesn't always start in the morning. #Person2# suggests Gina take her car to Jimmy's garage for repairs.,#Person2# suggests that #Person1# should visit Jimmy's garage because he has 20 years of experience and is particularly skilled at repairing older cars. #Person1# agrees but notes that his previous experience with another garage was unsatisfactory. #Person2# recommends calling Jimmy's garage immediately since they are usually not busy after 6:00 PM.,Gina tells #Person1# she has problems with her car and recommends #Person2# to go to Jimmy's garage.
+"#Person1#: Welcome back, Sir. I trust the materials were helpful to you?
+#Person2#: Indeed. I've decided to go for the Petty Consumer Loan. That is, if my credit rating is satisfactory.
+#Person1#: Your credit is fine, Sir. Now, tell me, what is it that you need the loan for?
+#Person2#: I've just bought a second hand apartment and I'm looking to do some renovations. You know, a bit of decorating, some new furniture, nothing flashy.
+#Person1#: I see. And what loan amount are you expecting?
+#Person2#: It says here that the maximum is 20, 000 RMB. Is that flexible?
+#Person1#: I'm sorry, Sir. The maximum we can lend you on this type of loan is 20, 000 RMB, with no exceptions.
+#Person2#: Well, 20, 000 RMB, it'll have to be then.
+#Person1#: I need some documentation from you. Such as your resident permit, your occupation and salary details and I already have your credit details here.
+#Person2#: Everything is right here. If that's all in order, just let me know where I sign.","#Person2# wants to go for the Petty Consumer Loan for the renovations of his apartment. #Person1# says the maximum they can lend #Person2# is 20,000 RMB and #Person2# accepts it.","The customer has applied for a loan of up to 20,000 RMB for renovation purposes, but the bank only lends up to 20,000 RMB without any exceptions. The customer needs to provide additional documents such as their residency permit, occupation and salary details, and the bank will use its existing credit information.","#Person1# helps #Person2# apply for a Petty Consumer Loan. #Person2# wants to buy an apartment and does some renovations. #Person1# tells #Person2# the maximum loan amount is 20, 000 RMB."
+"#Person1#: Did you know that drinking beer helps you sing better?
+#Person2#: Are you sure? How do you know?
+#Person1#: Well, usually people think I'm a terrible singer, but after we all have a few beers, they say I sound a lot better!
+#Person2#: Well, I heard that if you drink enough beer, you can speak foreign languages better. . .
+#Person1#: Then after a few beers, you'll be singing in Taiwanese?
+#Person2#: Maybe. . .","#Person1# says drinking beer helps sing better, but #Person2# heard it helps speaking foreign languages.","The conversation explores the idea of improved vocal abilities and language skills when consuming alcohol, with participants discussing how their singing voice improves under the influence of beer.",#Person1# tells #Person2# that drinking beer makes #Person1#'s voice better and #Person2# thinks it's possible for #Person1# to speak foreign languages.
+"#Person1#: Are the galaxies in the universe moving through space?
+#Person2#: No, the galaxies sit more or less passively in the space around them. But not too much. As the space between galaxies expands, it carries the galaxies further apart - like raisins in an expanding dough.
+#Person1#: But I heard that our Milky way galaxy may one day collide with a neighboring galaxy. If galaxies are moving apart from each other, how can they collide?
+#Person2#: Well, the universe is a chaotic place, and the gravity from one galaxy, or from a group of galaxies, may disturb the motion of its near neighbors, causing them to collide. However, on average, when you compare two large enough chunks of space, the galaxies in one are moving away from the galaxies in the other.
+#Person1#: Wow, you're really informative. Thanks a lot.
+#Person2#: You're welcome.",#Person2# answers #Person1#'s questions of whether the galaxies in the universe are moving through space and how the galaxies collide. #Person1# thinks #Person2# is informative.,"The speaker explains that while galaxies do move apart due to space expansion, their individual motions can still lead to collisions over long periods.",#Person2# explains why the galaxies don't move together but instead move apart.
+"#Person1#: Hello, reservation desk. How can I help you?
+#Person2#: I'd like to book a room.
+#Person1#: And what kind of room would you like ma'am? And we got single rooms, double rooms, standard rooms, sweets and Delux sweets.
+#Person2#: What's the rate for a standard room?
+#Person1#: $79 a night.
+#Person2#: I'd like a standard room.
+#Person1#: What date would you check in ma'am?
+#Person2#: December twenty-third, please.
+#Person1#: How long do you plan to stay?
+#Person2#: Four days.
+#Person1#: Could you give me your name and phone number?
+#Person2#: Nancy Brown, my phone number is 7096785634, Nancy Brown.
+#Person1#: Thanks, what time will you arrive?
+#Person2#: Around 3:00 PM.
+#Person1#: Very good, your reservation confirmation number is NB 13579. Thank you for booking in our hotel. Can I help you with anything else today?
+#Person2#: No, that's it. Thank you very much.",#Person1# helps Nancy book a standard room and asks for her personal information.,"The customer wants to book a standard room at the hotel on December 23rd for four nights, staying from around 3:00 PM, and her name is Nancy Brown with the phone number 7096785634. The hotel charges $79 per night for a standard room.","Nancy wants to book a standard room at the hotel on December 23rd. She tells #Person1# her name, phone number, arrival time, and stays four days. #Person1# confirms the reservation."
+"#Person1#: You married Joe, didn't you? 
+#Person2#: Joe? I don't know what you mean. 
+#Person1#: I remember you are in love. 
+#Person2#: Oh, I took a shine to him when we met for the first time. But it comes and goes. 
+#Person1#: It's Greek to me. ",#Person1# thought #Person2# married Joe. #Person2# denies.,The conversation is about someone who remembers being in love with Joe but doesn't know if that still applies now because their feelings have changed over time.,#Person2# tells #Person1# that #Person2#'s not married to Joe.
+"#Person1#: Elaine's back from school. I think it might be a nice gesture if you asked her out. I suppose she's not good enough for you, is that it?
+#Person2#: Look, Elaine Robinson and I do not get along.
+#Person1#: How do you know? You haven't seen her since high school. I guess your evenings, whatever you do with them, are just too valuable.
+#Person2#: That has nothing to do with it. . .
+#Person1#: I guess I'll just have to tell Mr. Robinson that you're too busy every evening, doing God knows what. . . God don't go on like this. If you absolutely refuse to take her out. . .
+#Person2#: I do.
+#Person1#: Then I will simply have to invite all the Robinson's over for dinner on Thursday.","#Person1# tells #Person2# to ask Elaine Robinson out but #Person2# refuses, so #Person1# resorts to inviting the Robinson's over for dinner.","The conversation revolves around a potential romantic relationship between Person1 and Elaine, who is not interested in dating Person2. Person1 suggests inviting Person2's family over for dinner instead.",#Person1# thinks Elaine's back from school and asks Elaine to ask her out but Elaine refuses. #Person1# invites all the Robinson's over for dinner on Thursday.
+"#Person1#: May I be of any help?
+#Person2#: Yes. Show me the sweaters, please.
+#Person1#: What style?
+#Person2#: Well, could you bring me all the styles of pullovers? I am not quite sure which one I will buy.
+#Person1#: Ok. Here are the ones, turtleneck pullover, crewneck pullover, V-neck pullover and cowl-neck pullover.",#Person2# asks #Person1# to show #Person2# all the styles of pullovers.,"The customer wants to see different types of sweaters, while the salesperson shows them various styles including turtlenecks, crewnecks, V-necks, and cowl-necks.",#Person2# asks #Person1# to show her all the styles of pullovers.
+"#Person1#: What's going on between you and Charlie? Did you have a fight or something?
+#Person2#: No, but I can't stand him anymore. He is the worst roommate I've ever had. He never cleans up after himself and he is always listening to loud music when I try to get some sleep.
+#Person1#: Why don't you have a heart-to-heart talk with him?
+#Person2#: I've tried, but it didn't work. Maybe you can talk to him. After all, you are his good friend.","#Person2# complains about #Person2#'s roommate, Charlie, to #Person1# and asks #Person1# to talk to Charlie.","The speaker explains that their roommate, Charlie, has been causing problems for them, such as not cleaning up and listening to loud music. The other person suggests talking to Charlie about their behavior.",#Person2# tells #Person1# that #Person2#'s roommate is annoying. #Person1# suggests talking to him.
+"#Person1#: Good afternoon. Is there a vacant room here?
+#Person2#: What do you want, a single or a double one?
+#Person1#: A single, preferably with a bath.
+#Person2#: How long do you intend to stay?
+#Person1#: For four days or so.
+#Person2#: We have one single room on the fifth floor.
+#Person1#: I hope it's quiet. I hate noise.
+#Person2#: It's very quiet, sir.
+#Person1#: How much does it cost per day?
+#Person2#: It's 150 yuan per day including a 10 % service charge.
+#Person1#: All right. I'll take the room.
+#Person2#: Would you please fill in the registration form?
+#Person1#: OK.
+#Person2#: As a hotel policy, we require one day's room charge as a deposit for guests without reservation.
+#Person1#: No problem. Here you are.
+#Person2#: Your room number is 505. This is your key. The bellboy will help you with the baggage.",#Person2# helps #Person1# get a quiet single room without reservation and pay the deposit.,The guest has found a single room on the fifth floor and paid the required deposit before receiving their key and being informed of their room number.,#Person1# wants a single room and asks about the price. #Person2# recommends a single room on the fifth floor. #Person1# fills in the registration form and pays the deposit.
+"#Person1#: I came to this lab to have my blood drawn.
+#Person2#: You are in the right place. Roll up your left sleeve and have a seat.
+#Person1#: What am I being tested for?
+#Person2#: Your doctor wants to know what your white blood cell count is.
+#Person1#: What does my white blood cell count tell him?
+#Person2#: Usually if your white count is off, the doctor suspects an infection.
+#Person1#: How much will it hurt?
+#Person2#: It is only a pin prick. I have to put this tourniquet on your arm to make the vein easier to find.
+#Person1#: Is that my blood going into that tube?
+#Person2#: That blood that just filled the tube is all that I needed. Thanks for coming in!",#Person2# is drawing #Person1#'s blood as the doctor wants to know #Person1#'s white blood cell count.,The person was asked to have their blood drawn at a laboratory where they were informed about the test results and how long the procedure would take.,#Person1# comes to the lab to get his blood drawn. #Person2# tells #Person1# about the test and how it hurts.
+"#Person1#: What kind of personality do you think you have?
+#Person2#: I am very active and energetic. I approach things enthusiastically and I don't like leaving them half done.
+#Person1#: Do you think you are introverted or extroverted?
+#Person2#: I am quite outgoing, I think. I enjoy mixing and doing things with other people.
+#Person1#: What do you think is the most important thing for you to be happy?
+#Person2#: I maintain that the most important thing is having good friends. A person can't live all by himself. A friend in need is a friend indeed. So the more really close friends I have, the happier I am.
+#Person1#: Do you have any friend you would call really close ones?
+#Person2#: Yes, I would call three of my former classmates really close friends. We often get together and talk with each other. Whenever I counter difficulties, they are always ready to give me a hand.
+#Person1#: What kind of people would you like to work with?
+#Person2#: People who are honest, dedicated to their work and have integrity.
+#Person1#: What kind of people you find hard to work with?
+#Person2#: Slacker and those who violate working principles.","#Person2# thinks #Person2# is active, energetic, and outgoing. #Person2# values friendship very much and tells #Person1# about #Person2#'s close friends. #Person2# likes to work with people who are honest, dedicated, and have integrity and finds it hard to work with slackers and those who violate working principles.","#Person2# thinks they are an active and energetic person who approaches things enthusiastically and doesn't leave tasks unfinished. They believe they are outgoing and enjoy mixing with others. The most important thing for them to be happy is having good friends, especially close friends who support them through difficult times. They prefer working with honest, dedicated, and principled individuals.","#Person2#'s personality traits include being active and energetic, outgoing, and having good friends. #Person2# thinks honesty, dedication, and integrity are important qualities when working with others."
+"#Person1#: I am totally fed up with my boss. He has crossed the line one too many times with his sexist comments. This time I am really going to report him for sexual harassment. 
+#Person2#: What happened? Did your boss say something to offend you at work? 
+#Person1#: He constantly lets inappropriate things slip out, referring to the women employees as girls or calling us sweetheart or darling. I doubt any of my male colleagues would stand for such treatment. 
+#Person2#: Don't you think you are overreacting a little? Calling you by nicknames shouldn't be so bad... 
+#Person1#: You're missing the point. It's about respect. He treats us with such a patronizing attitude, as if we are not equal or not as serious as our male co-workers. It's his attitude that needs to be changed, not just his words. 
+#Person2#: That's what you get for working in a male-dominated field. I think you'll find that most male bosses in your industry are already conditioned to treat females in this way. You probably won't be able to change him. ",#Person1# complains to #Person2# about her boss's sexist comments. #Person1# is going to report him for sexual harassment. #Person2# thinks #Person1# is overreacting and she can't change her boss.,The conversation revolves around #Person1's frustration with their boss's sexist behavior and #Person2's skepticism about the situation.,#Person1# reports her boss because he crosses the line sexually and she thinks it is unfair. #Person2# doesn't agree.
+"#Person1#: Veronica, wait! Come on, honey, get back in the car. Let's talk it over, okay? 
+#Person2#: No! I'm tired of your lies! I don't know who you are anymore! 
+#Person1#: Veronica. It's me, the man that has and always will love you. I'm sorry that I've lied to you. Believe me, it's been so hard for me as well, and time and again, I've thought of coming clean. But, I couldn't put you or my mission at risk. It's all over now. My assignment is complete and now I have to go back to India. 
+#Person2#: What? Are you kidding? Is there anything else I should know before I never see you again? How could you deceive me like that? 
+#Person1#: Yes. . . Veronica. . . I know that this isn't the best time and that you probably hate me right now but, I want to be completely forthright with you. I know deep in my heart that you are the best thing that has ever happened to me. Veronica. . . will you marry me? Come with me to India,baby, I can't make up for everything that's happened, but I can promise you my undying love. I will be the most devoted husband, and I will cherish you always. 
+#Person2#: Steven. . . I can't just leave everything at the drop of a hat! With everything t hat has happened between us, I just don't know you any more. I just can't build a relationship on a foundation of lies. I do love you but. . . I can't go with you. I'm sorry. . . I love you. . . 
+#Person3#: This is the last call for flight eight one five from Los Angeles to Hyderabad. 
+#Person4#: I'm sorry , sir, we can't wait any longer you must board the plane. Are you waiting for someone? 
+#Person1#: I was but, I don't think she is coming. . . ","Steven lied to Veronica because of his mission. Veronica feels so deceived that she doesn't believe Steven anymore. Steven asks Veronica to move to India together and marry him but Veronica refuses. At last, Veronica doesn't appear at the airport when Steven's going to board the plane from Los Angeles to Hyderabad.","The couple had an argument about their past relationship and whether they would continue together. The man wanted to end the relationship because he felt betrayed and deceived, while the woman refused to give him up despite his attempts to explain himself.",Steven tells Veronica he loves her deeply and wants to marry her. Veronica refuses because she doesn't trust him. Steven asks her to come with him to India. Veronica says she'll stay away.
+"#Person1#: Excuse me. Do you think I can get there in time to catch the 11:30 train? 
+#Person2#: Well, let me see. Now it's 11:00 sharp. It's a long way to go. If I take the shortest route, we may come across a traffic jam. If I take a less heavy route, it will save us 10 or more minutes, but you'll have to pay more. Which do you prefer? 
+#Person1#: Are you sure that I can get there in time if we take the less heavy route? 
+#Person2#: Generally speaking, we can if we go at this speed and nothing unexpected happens. 
+#Person1#: How much more do I have to pay? 
+#Person2#: Compared to the shortest route, you may pay around 5 Euro more. 
+#Person1#: That's acceptable. No one wants to miss a train. 
+#Person2#: OK. . . Here we are. We'll turn left at this cross. To go straight ahead is the shortest route. 
+#Person1#: Thank you! ",#Person1# agrees with #Person2#'s suggestion to pay extra 5 euros to take a less heavy route to catch the train.,"The conversation revolves around deciding on the best route for a trip, with both parties considering factors such as travel time, distance, and cost before agreeing on the less expensive option despite its longer journey.",#Person2# tells #Person1# how to get to the destination on time. #Person1# agrees to pay extra money for the less heavy route.
+"#Person1#: How are you, Mrs. Brandon?
+#Person2#: Pretty good. How are you doing?
+#Person1#: Not so good. I lost my job today.
+#Person2#: I'm sorry to hear that.
+#Person1#: How are your students doing?
+#Person2#: They are very nervous about their final test.
+#Person1#: I remember you gave our class a hard final test in my first year of college. Many of us failed. But I really learned a lot from you. You see, I can speak very good English.
+#Person2#: Thank you for saying so.",#Person1# lost the job but is grateful for Mrs. Brandon from who #Person1# learned a lot.,The conversation is between two people discussing their current situations and memories from the past. #Person1# is currently struggling with unemployment while #Person2# remembers giving a difficult final exam during their time at college and appreciates how well #Person1# speaks English.,Mrs. Brandon tells #Person1# she's not feeling well and her students are nervous about their final test.
+"#Person1#: Hello. Do you know how I can find a room to rent?
+#Person2#: There is so much information and I advise to read newspaper.
+#Person1#: Will that work?
+#Person2#: Yes, of course. If you like the room, call the landlord and confirm the information of the room.
+#Person1#: Good idea. Thank you.",#Person2# suggests #Person1# read the newspaper for renting information.,"The speaker seeks advice on finding a rental room, which includes reading newspapers for information. The listener suggests calling landlords directly to verify details about the rooms.",#Person2# advises #Person1# to read newspapers for finding a room to rent.
+"#Person1#: Nice to see you again, Mike. How was your trip to China?
+#Person2#: It was great. I flew to Beijing with my wife last month and I stayed there for 3 days. There were so many things to see and so many places of interest to visit in Beijing that we really couldn't decide whether to leave or stay.
+#Person1#: Have you visited other places in China?
+#Person2#: Yes, then we visited Shanghai and Nanjing, each city for 2 days. Finally we paid a visit to Guilin, where we spent 3 days. They were so beautiful that we were deeply impressed by these cities.
+#Person1#: Sounds great.",Mike talks with #Person1# about his enjoyable trip to China.,"Mike had an enjoyable trip to China, visiting several major cities including Beijing, Shanghai, Nanjing, and Guilin, which left a lasting impression on him.",Mike tells #Person1# he went to Beijing and Shanghai with his wife and visited Guilin. He thinks it's great.
