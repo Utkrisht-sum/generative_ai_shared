@@ -1,0 +1,14 @@
+{
+  "kaggle_version_url": "https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-patent-offline-weights/1",
+  "status": "complete",
+  "python": "3.13.18",
+  "torch": "2.11.0+cpu",
+  "dependency_wheels": 53,
+  "checkpoints": [
+    "microsoft/deberta-v3-small",
+    "sentence-transformers/all-MiniLM-L6-v2"
+  ],
+  "checkpoint_files_verified": true,
+  "cuda_torch_wheels_in_bundle": false,
+  "training_performed": false
+}

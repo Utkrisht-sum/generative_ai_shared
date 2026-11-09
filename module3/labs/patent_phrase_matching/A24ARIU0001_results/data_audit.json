@@ -1,0 +1,27 @@
+{
+  "source": "official Kaggle competition download",
+  "seed": 42,
+  "validation_fraction": 0.2,
+  "train_rows": 28914,
+  "validation_rows": 7559,
+  "train_anchors": 586,
+  "validation_anchors": 147,
+  "overlapping_anchors": 0,
+  "train_label_counts": {
+    "0.0": 5949,
+    "0.25": 9054,
+    "0.5": 9825,
+    "0.75": 3197,
+    "1.0": 889
+  },
+  "validation_section_counts": {
+    "A": 943,
+    "B": 1926,
+    "C": 1177,
+    "D": 199,
+    "E": 373,
+    "F": 968,
+    "G": 1040,
+    "H": 933
+  }
+}

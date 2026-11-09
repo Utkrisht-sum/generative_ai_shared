@@ -17,7 +17,7 @@ Checked on 10 November 2026 (India).
 | Gradio chatbot | Fork PR #2 is a draft with recorded automated outputs | A real partner session, chat log, observations and ratings |
 | QLoRA DialogSum | Implementation prepared; the optimizer-check bug is fixed | T4 training, generated summaries, ROUGE and six human ratings |
 | Optional U-Net | Real-data implementation prepared | Ten epochs on Oxford-IIIT Pet, held-out Dice/IoU, plots and failure analysis |
-| Patent project | Weight-download, experiment and final notebooks prepared | Official competition inputs, all runs, reviewed errors, actual Kaggle scores and the report |
+| Patent project | Weight preparation completed; official competition inputs verified | Experiment/final runs, reviewed errors, actual Kaggle scores and the report |
 
 The course repository's current master does not contain the fork's A24ARIU0001
 submission files. GPT-2's fork merge does not establish course acceptance.
@@ -75,14 +75,12 @@ Transformers version: the original failed, the corrected version accepted the
 intended configuration, and six incorrect configurations were rejected. These
 are implementation checks, not experiment measurements.
 
-The preparation machine has zero CUDA devices. After environment publication,
-GitHub API access works and the KAGGLE_API_TOKEN binding is present and ready.
-The official Kaggle 2.2.5 client authenticates through api.kaggle.com, which is
-still blocked by the running network policy. A rule for that host is saved in
-the new draft. The existing credential must also allow api.kaggle.com as a
-destination, alongside www.kaggle.com; that destination change requires editing
-the existing credential in environment settings. No new token is required.
-Full Kaggle authentication and GPU-job availability remain unverified.
+The preparation machine has zero CUDA devices. After the access settings were
+published, both GitHub API and Kaggle authentication succeeded. Kaggle reported
+about 28.3 of 30 GPU hours remaining. The corrected private QLoRA T4 run is now
+executing, and the patent CPU weight-preparation run completed. The latter's
+executed notebook and data audit are saved in the patent topic directory. No GPU
+training result is claimed until the corresponding run completes and is checked.
 
 The preparation now has draft PR #3 in the fork. The course repository also has
 open PR #127 for the Lab 1/Lab 5 corrections and PR #160 for the completed GPT-2
