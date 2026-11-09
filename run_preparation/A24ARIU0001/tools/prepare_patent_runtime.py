@@ -37,7 +37,7 @@ def prepare(out):
     subprocess.run([sys.executable,'-m','pip','download','--only-binary=:all:','--no-deps',
                     '--dest',str(out),*pins],check=True)
     (out/'wheels_manifest.json').write_text(json.dumps({'python':sys.version.split()[0],
-        'torch':torch_version,'requirements':pins},indent=2))
+        'torch':torch_version,'root_requirements':ROOTS,'requirements':pins},indent=2))
     print('Offline runtime saved:',out,flush=True)
     return pins
 

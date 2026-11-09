@@ -15,8 +15,8 @@ Checked on 10 November 2026 (India).
 | Labs 1–5 | Submission notebooks exist in the fork | Check the course platform for acceptance; a fork file alone is not submission evidence |
 | GPT-2 recipes | Fork PR #1 is merged; executed notebook and measured evidence are present | No rerun needed |
 | Gradio chatbot | Fork PR #2 is a draft with recorded automated outputs | A real partner session, chat log, observations and ratings |
-| QLoRA DialogSum | Implementation prepared; the optimizer-check bug is fixed | T4 training, generated summaries, ROUGE and six human ratings |
-| Optional U-Net | Real-data implementation prepared | Ten epochs on Oxford-IIIT Pet, held-out Dice/IoU, plots and failure analysis |
+| QLoRA DialogSum | T4 training and automatic evaluation completed; ROUGE-L 23.00 → 37.11 | Six genuine human ratings |
+| Optional U-Net | Completed ten-epoch pet run; test Dice 0.8793, IoU 0.7846 | Course pull-request creation is blocked by integration permissions |
 | Patent project | Weight preparation completed; official competition inputs verified | Experiment/final runs, reviewed errors, actual Kaggle scores and the report |
 
 The course repository's current master does not contain the fork's A24ARIU0001
@@ -24,8 +24,9 @@ submission files. GPT-2's fork merge does not establish course acceptance.
 
 ## Run order
 
-Use one job at a time. Preserve the supplied seeds, training limits, batch sizes,
-lengths and epoch budgets. The preparation branch does not change those settings.
+Keep GPU training jobs sequential; independent CPU weight preparation can run
+alongside them. Preserve the supplied seeds, training limits, batch sizes, lengths
+and epoch budgets. The preparation branch does not change those settings.
 
 | Notebook topic | Runtime | Internet | Inputs |
 | --- | --- | --- | --- |
@@ -77,14 +78,25 @@ are implementation checks, not experiment measurements.
 
 The preparation machine has zero CUDA devices. After the access settings were
 published, both GitHub API and Kaggle authentication succeeded. Kaggle reported
-about 28.3 of 30 GPU hours remaining. The corrected private QLoRA T4 run is now
-executing, and the patent CPU weight-preparation run completed. The latter's
-executed notebook and data audit are saved in the patent topic directory. No GPU
-training result is claimed until the corresponding run completes and is checked.
+about 28.3 of 30 GPU hours remaining at the start. QLoRA and U-Net finished and
+their actual outputs are saved in their topic directories. The patent offline
+experiment run is active after a setup correction. Its initial bootstrap tried
+to copy every CPU-image dependency version into the GPU runtime and demanded a
+restart even when only an unrelated package was loaded. The revised bootstrap
+keeps compatible installed dependencies, resolves the required packages from the
+attached wheels, pins working CUDA torch and checks the files of any distribution
+that would be replaced before continuing. Only bootstrap cells changed; training
+and evaluation controls were preserved.
 
 The preparation now has draft PR #3 in the fork. The course repository also has
 open PR #127 for the Lab 1/Lab 5 corrections and PR #160 for the completed GPT-2
 lab. These open pull requests have not been merged.
+
+The completed U-Net has a separate clean branch based on the course master:
+`a24ariu0001-unet-pet-completed`. Creating its course PR returned
+`Resource not accessible by integration`. The prepared comparison is
+https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-unet-pet-completed?expand=1.
+That branch is ready for a PR; it is not evidence that a PR was created.
 
 Nothing in this folder submits a competition entry or merges a pull request
 automatically. Submission should use completed, verified artifacts.

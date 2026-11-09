@@ -23,3 +23,11 @@ their sample sizes reported.
 records counts from the official training data. Model scores, training times,
 error-analysis findings and leaderboard evidence remain pending until those
 experiments execute. No hidden test labels or later fully rated data were used.
+
+The first offline experiment attempt stopped during setup, before model training.
+Its original bootstrap tried to reproduce every CPU-image dependency version and
+requested a kernel restart whenever any scientific package was already loaded.
+The corrected bootstrap resolves the required packages only from attached wheels,
+preserves compatible installed dependencies and pins Kaggle's working CUDA torch.
+It refuses to replace a package whose own code is already loaded. Attempt 2 passed
+setup with four package changes and is running the unchanged experiments offline.
