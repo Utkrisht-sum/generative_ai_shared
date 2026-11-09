@@ -1,0 +1,23 @@
+# Install the appropriate torch/torchvision build first (see RUN_GUIDE.md).
+# Versions below match the behavioural checks in CHECKS.json.
+transformers==5.22.2
+peft==0.21.2
+accelerate==1.15.0
+datasets==5.1.0
+fsspec[http]==2026.7.0
+tokenizers==0.23.3
+huggingface-hub==2.4.0
+safetensors==0.8.0
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow==12.3.0
+sacrebleu==2.6.0
+rouge_score==0.1.2
+gradio==6.31.0
+nbformat==5.11.1
+ipython>=8
+sentencepiece==0.2.3
+reportlab>=4
+pypdf>=5
