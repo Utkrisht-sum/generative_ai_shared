@@ -37,6 +37,13 @@ It has no new course PR. Fork [draft PR #3](https://github.com/Utkrisht-sum/gene
 collects the verified continuation work; a fork PR is not course acceptance.
 Existing course PRs #127 and #160 remain open and unmerged.
 
+The existing VAE, GAN and attention notebooks plus the completed U-Net are also
+packaged on a clean branch based on the course master, with only this student's
+12 submission/dependency files:
+[completed-labs comparison](https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-completed-lab-submissions?expand=1).
+This is ready for course PR creation; the integration permission block still
+applies. The earlier three notebooks were inspected, not retrained.
+
 ## Reproduce
 
 For the earlier labs, install `lab_requirements_UTKRISHT.txt` in a Python 3 environment and run the cells in order. Those recorded CPU runs used Python 3.12, PyTorch 2.15.0 and torchvision 0.29.2. The newer Kaggle U-Net and QLoRA runs used Python 3.13.16 and T4. Follow the Module 3 notebooks' setup cells for their additional dependencies, preserving Kaggle's CUDA torch. Seeds and runtime details are recorded with each run; CPU and GPU results can differ numerically.
