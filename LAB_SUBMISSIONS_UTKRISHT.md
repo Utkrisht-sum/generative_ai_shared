@@ -22,7 +22,20 @@ The original course templates and other students' files are preserved. These not
 | GPT-2 recipes | [Notebook](module3/labs/gpt2_lora_recipes/A24ARIU0001_GPT2_LORA_RECIPES_LAB_UTKRISHT_SUMAN.ipynb) | Complete; course-repository PR #160 is open |
 | QLoRA DialogSum | [Notebook](module3/labs/qlora/A24ARIU0001_QLORA_DIALOGSUM_LAB_UTKRISHT_SUMAN.ipynb) | Training and automatic evaluation complete; six human ratings still pending |
 | Gradio chatbot | [Draft fork PR #2](https://github.com/Utkrisht-sum/generative_ai_shared/pull/2) | Recorded automated run; real partner session still pending |
-| Patent project | [Weight preparation](module3/labs/patent_phrase_matching/A24ARIU0001_PATENT_DOWNLOAD_WEIGHTS_LAB_UTKRISHT_SUMAN.ipynb) | Weights/wheels prepared; offline experiments are running |
+| Patent project | [Final executed notebook](module3/labs/patent_phrase_matching/A24ARIU0001_PATENT_FINAL_LAB_UTKRISHT_SUMAN.ipynb) · [results/report](module3/labs/patent_phrase_matching/A24ARIU0001_results/README.md) | Offline experiments and Kaggle submission complete: public 0.7922, private 0.8084; required screenshot and course upload pending |
+
+The patent entry is Kaggle submission **58176236**, using public notebook
+[final version 1](https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-patent-final?scriptVersionId=367835971).
+Its validation Pearson is 0.8202. The four-page report is explicitly marked draft
+until the required Submissions-tab screenshot is added. Actual API scores are
+saved; they do not replace that screenshot.
+
+Creating a new pull request in the course repository returned **Resource not
+accessible by integration**. The completed U-Net branch is pushed and ready at
+[this comparison](https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-unet-pet-completed?expand=1).
+It has no new course PR. Fork [draft PR #3](https://github.com/Utkrisht-sum/generative_ai_shared/pull/3)
+collects the verified continuation work; a fork PR is not course acceptance.
+Existing course PRs #127 and #160 remain open and unmerged.
 
 ## Reproduce
 

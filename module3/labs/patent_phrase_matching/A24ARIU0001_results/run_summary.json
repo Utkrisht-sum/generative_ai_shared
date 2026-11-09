@@ -1,0 +1,23 @@
+{
+  "experiment_version": "utkrishtsuman/a24ariu0001-patent-experiments/2",
+  "final_version": "utkrishtsuman/a24ariu0001-patent-final/1",
+  "experiment_code_cells": 15,
+  "final_code_cells": 11,
+  "execution_errors": 0,
+  "internet": false,
+  "accelerator": "T4",
+  "seed": 42,
+  "epochs": 3,
+  "train_rows": 28914,
+  "validation_rows": 7559,
+  "validation_pearson": 0.8201944779787197,
+  "trainer_train_runtime_seconds": 214.4694,
+  "runtime_scope": "Trainer.train(), including epoch evaluations; excludes checkpoint loading",
+  "model_loading_and_training_cell_seconds": 272.230976,
+  "visible_submission_rows": 36,
+  "selected_context": "section",
+  "selection_uses_leaderboard": false,
+  "raw_validation_predictions": true,
+  "submission_scores_clipped": true,
+  "saved_code_and_outputs_unchanged": true
+}

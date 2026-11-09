@@ -1,0 +1,5 @@
+name,changed,pearson,minutes,peak_GB,trainable,inference_seconds,delta_from_starter,interpretation
+section_baseline,none (starter),0.8201944782513845,3.4273791586000004,2.729608192,141895681,,0.0,starter baseline
+minilm_no_training,bi-encoder; different pretrained checkpoint; no task training,0.5814485372913901,0.0,,0,2.948333987000069,-0.23874594095999435,architecture and training differ; not a controlled context experiment
+context_none,context only: none,0.8167170418130046,3.3269831044499996,2.656840192,141895681,,-0.003477436438379833,difference <= 0.005; needs another seed
+context_code,context only: code,0.8192094207329486,3.3137736946166663,2.70827776,141895681,,-0.0009850575184359167,difference <= 0.005; needs another seed

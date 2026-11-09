@@ -1,0 +1,13 @@
+{
+  "context_mode": "section",
+  "selected_by": "validation Pearson",
+  "name": "section_baseline",
+  "validation_pearson": 0.8201944782513845,
+  "seed": 42,
+  "epochs": 3,
+  "lr": 2e-05,
+  "batch_size": 32,
+  "max_len": 64,
+  "val_fraction": 0.2,
+  "model_id": "microsoft/deberta-v3-small"
+}
