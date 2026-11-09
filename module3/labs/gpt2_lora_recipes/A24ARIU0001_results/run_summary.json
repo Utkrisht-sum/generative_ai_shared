@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "train_limit": null,
+  "epochs": 2,
+  "batch": 8,
+  "full": {
+    "trainable": 124439808,
+    "minutes": 6.697901229600001,
+    "peak GB": 11.010564608
+  },
+  "lora": {
+    "trainable": 294912,
+    "minutes": 5.920469297099999,
+    "peak GB": 10.473234944
+  },
+  "general_loss": {
+    "GPT-2 original": 3.4679901361465455,
+    "GPT-2 full FT": 4.050626562436421,
+    "GPT-2 LoRA": 3.5649110825856525
+  }
+}
