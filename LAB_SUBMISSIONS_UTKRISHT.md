@@ -8,7 +8,7 @@ The original course templates and other students' files are preserved. These not
 
 | Lab | Notebook | Execution scope |
 |---|---|---|
-| Lab 1: Encoder–decoder | [Existing submission on lab1 branch](https://github.com/Utkrisht-sum/generative_ai_shared/blob/lab1/module1/labs/submissions/lab1/A24ARIU0001_ENCODER_DECODER_LAB_UTKRISHT_SUMAN.ipynb) | Already submitted; untouched |
+| Lab 1: Encoder–decoder | [Notebook](module1/labs/submissions/lab1/A24ARIU0001_ENCODER_DECODER_LAB_UTKRISHT_SUMAN.ipynb) | Executed corrections; course PR #127 is open |
 | Lab 2: Face VAE | [Notebook](module1/labs/submissions/lab2/A24ARIU0001_VAE_FACES_LAB_UTKRISHT_SUMAN.ipynb) | LFW faces; 10-epoch main run and fresh beta=0/1 comparisons |
 | Lab 3: GAN | [Notebook](module1/labs/submissions/lab3/A24ARIU0001_GAN_LAB_UTKRISHT_SUMAN.ipynb) | Fixed 5,000-image MNIST subset; 10 epochs each for baseline, faster D, conditional DCGAN |
 | Seq2Seq attention | [Notebook](module2/labs/submissions/seq2seq_attention/A24ARIU0001_SEQ2SEQ_ATTENTION_LAB_UTKRISHT_SUMAN.ipynb) | CPU-limited Multi30k: 3,000 train pairs; up to 8 epochs/model; 200 test pairs |
@@ -21,7 +21,7 @@ The original course templates and other students' files are preserved. These not
 | --- | --- | --- |
 | GPT-2 recipes | [Notebook](module3/labs/gpt2_lora_recipes/A24ARIU0001_GPT2_LORA_RECIPES_LAB_UTKRISHT_SUMAN.ipynb) | Complete; course-repository PR #160 is open |
 | QLoRA DialogSum | [Notebook](module3/labs/qlora/A24ARIU0001_QLORA_DIALOGSUM_LAB_UTKRISHT_SUMAN.ipynb) | Training and automatic evaluation complete; six human ratings still pending |
-| Gradio chatbot | [Draft fork PR #2](https://github.com/Utkrisht-sum/generative_ai_shared/pull/2) | Recorded automated run; real partner session still pending |
+| Gradio chatbot | [Notebook](module3/labs/gradio_chatbot/A24ARIU0001_GRADIO_CHATBOT_LAB_UTKRISHT_SUMAN.ipynb) · [draft fork PR #2](https://github.com/Utkrisht-sum/generative_ai_shared/pull/2) | Recorded automated run; real partner session still pending |
 | Patent project | [Final executed notebook](module3/labs/patent_phrase_matching/A24ARIU0001_PATENT_FINAL_LAB_UTKRISHT_SUMAN.ipynb) · [results/report](module3/labs/patent_phrase_matching/A24ARIU0001_results/README.md) | Offline experiments and Kaggle submission complete: public 0.7922, private 0.8084; required screenshot and course upload pending |
 
 The patent entry is Kaggle submission **58176236**, using public notebook

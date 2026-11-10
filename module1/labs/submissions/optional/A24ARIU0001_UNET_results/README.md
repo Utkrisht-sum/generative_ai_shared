@@ -1,7 +1,8 @@
 # Oxford pet U-Net results — A24ARIU0001
 
 The full ten-epoch real-data run completed on Kaggle T4:
-https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-unet-pet-segmentation/1.
+https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-unet-pet-segmentation?scriptVersionId=367827217.
+This exact saved version is public for instructor access.
 All five code cells executed without recorded errors. The notebook preserves their
 actual outputs, with written findings added after inspecting the figures.
 

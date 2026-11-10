@@ -1,0 +1,7 @@
+temperature,attempt,reply
+0.0,1,A refund to your UPI account takes 2 to 3 working days.
+0.0,2,A refund to your UPI account takes 2 to 3 working days.
+0.0,3,A refund to your UPI account takes 2 to 3 working days.
+1.2,1,"A refund to the original payment method (UPI) takes 2 to 3 working days for processing. This includes the 2-hour transit time for receipt of refund funds. Should the delay exceed this timeframe due to the nature of the transaction processing, please consult support."
+1.2,2,A refund to my UPI account takes 2 to 3 working days. [refunds]
+1.2,3,A refund to your UPI account typically takes 2 to 3 working days.
