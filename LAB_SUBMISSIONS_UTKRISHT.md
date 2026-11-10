@@ -2,6 +2,12 @@
 
 Roll number: **A24ARIU0001**
 
+**Names and upload locations checked on 10 November 2026 (India):** all 12
+submission notebooks use `A24ARIU0001_<LAB_TOPIC>_LAB_UTKRISHT_SUMAN.ipynb`.
+See the [naming/location audit](LAB_SUBMISSION_AUDIT_UTKRISHT.md) and
+[exact-file manifest](LAB_SUBMISSION_MANIFEST_UTKRISHT.json). All are available
+on the review branch; draft and course-acceptance states are listed below.
+
 **The earlier submissions were reviewed before publication to this fork.** New execution results below state their current completion status.
 
 The original course templates and other students' files are preserved. These notebooks are separate student submissions.
