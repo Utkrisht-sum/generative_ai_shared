@@ -1,0 +1,3 @@
+-r requirements.txt
+# CUDA machine only. T4 uses fp16; do not select bf16 on T4.
+bitsandbytes>=0.48,<0.51
