@@ -17,11 +17,11 @@ are preserved.
 | Lab | Notebook | Execution scope |
 |---|---|---|
 | Lab 1: Encoder–decoder | [Notebook](module1/labs/submissions/lab1/A24ARIU0001_ENCODER_DECODER_LAB_UTKRISHT_SUMAN.ipynb) | Executed corrections; course PR #127 closed, unmerged |
-| Lab 2: Face VAE | [Notebook](module1/labs/submissions/lab2/A24ARIU0001_VAE_FACES_LAB_UTKRISHT_SUMAN.ipynb) | LFW faces; 10-epoch main run and fresh beta=0/1 comparisons |
-| Lab 3: GAN | [Notebook](module1/labs/submissions/lab3/A24ARIU0001_GAN_LAB_UTKRISHT_SUMAN.ipynb) | Fixed 5,000-image MNIST subset; 10 epochs each for baseline, faster D, conditional DCGAN |
-| Seq2Seq attention | [Notebook](module2/labs/submissions/seq2seq_attention/A24ARIU0001_SEQ2SEQ_ATTENTION_LAB_UTKRISHT_SUMAN.ipynb) | CPU-limited Multi30k: 3,000 train pairs; up to 8 epochs/model; 200 test pairs |
+| Lab 2: Face VAE | [Notebook](module1/labs/submissions/lab2/A24ARIU0001_VAE_FACES_LAB_UTKRISHT_SUMAN.ipynb) | LFW faces; main run and beta comparison complete; course PR #162 open |
+| Lab 3: GAN | [Notebook](module1/labs/submissions/lab3/A24ARIU0001_GAN_LAB_UTKRISHT_SUMAN.ipynb) | Three ten-epoch runs on 5,000 MNIST images; course PR #162 open |
+| Seq2Seq attention | [Notebook](module2/labs/submissions/seq2seq_attention/A24ARIU0001_SEQ2SEQ_ATTENTION_LAB_UTKRISHT_SUMAN.ipynb) | 3,000 Multi30k training pairs and 200 test examples; course PR #162 open |
 | Lab 5: Text to BERT | [Notebook](module2/labs/submissions/lab5/A24ARIU0001_TEXT_TO_BERT_LAB_UTKRISHT_SUMAN.ipynb) | Executed notebook; course PR #127 closed, unmerged |
-| Optional U-Net | [Notebook](module1/labs/submissions/optional/A24ARIU0001_UNET_PET_SEGMENTATION_LAB_UTKRISHT_SUMAN.ipynb) | Completed ten-epoch Oxford pet run; test Dice 0.8793 and IoU 0.7846 on 739 held-out images |
+| Optional U-Net | [Notebook](module1/labs/submissions/optional/A24ARIU0001_UNET_PET_SEGMENTATION_LAB_UTKRISHT_SUMAN.ipynb) | Ten epochs; test Dice 0.8793 and IoU 0.7846; course PR #162 open |
 
 ## Module 3 continuation
 
@@ -48,7 +48,10 @@ Course PRs [#127](https://github.com/bk-anupam/generative_ai_shared/pull/127) an
 [#160](https://github.com/bk-anupam/generative_ai_shared/pull/160) were closed
 without merging on 11 November. The separate
 [VAE/GAN/attention/U-Net branch](https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-completed-lab-submissions?expand=1)
-is ready, but course PR creation is blocked by the integration's permissions.
+is uploaded in existing [course PR #162](https://github.com/bk-anupam/generative_ai_shared/pull/162).
+Its diff contains only the four executed notebooks, and the PR remains open and
+unmerged. The integration can push their fork branch but cannot edit the course
+PR's title or description.
 [Draft fork PR #3](https://github.com/Utkrisht-sum/generative_ai_shared/pull/3)
 retains preparation material. Neither fork storage nor a draft PR confirms
 course acceptance.

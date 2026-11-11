@@ -32,11 +32,11 @@ is preserved.
 | Lab | Uploaded notebook | Course submission state |
 | --- | --- | --- |
 | Lab 1 | [Encoder–decoder](module1/labs/submissions/lab1/A24ARIU0001_ENCODER_DECODER_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #127 closed, unmerged |
-| Lab 2 | [Face VAE](module1/labs/submissions/lab2/A24ARIU0001_VAE_FACES_LAB_UTKRISHT_SUMAN.ipynb) | Fork uploaded; clean course branch ready |
-| Lab 3 | [GAN](module1/labs/submissions/lab3/A24ARIU0001_GAN_LAB_UTKRISHT_SUMAN.ipynb) | Fork uploaded; clean course branch ready |
-| Lab 4 | [Seq2Seq attention](module2/labs/submissions/seq2seq_attention/A24ARIU0001_SEQ2SEQ_ATTENTION_LAB_UTKRISHT_SUMAN.ipynb) | Fork uploaded; clean course branch ready |
+| Lab 2 | [Face VAE](module1/labs/submissions/lab2/A24ARIU0001_VAE_FACES_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #162 open, unmerged |
+| Lab 3 | [GAN](module1/labs/submissions/lab3/A24ARIU0001_GAN_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #162 open, unmerged |
+| Lab 4 | [Seq2Seq attention](module2/labs/submissions/seq2seq_attention/A24ARIU0001_SEQ2SEQ_ATTENTION_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #162 open, unmerged |
 | Lab 5 | [Text to BERT](module2/labs/submissions/lab5/A24ARIU0001_TEXT_TO_BERT_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #127 closed, unmerged |
-| Optional U-Net | [Pet segmentation](module1/labs/submissions/optional/A24ARIU0001_UNET_PET_SEGMENTATION_LAB_UTKRISHT_SUMAN.ipynb) | Public Kaggle notebook; clean course branch ready |
+| Optional U-Net | [Pet segmentation](module1/labs/submissions/optional/A24ARIU0001_UNET_PET_SEGMENTATION_LAB_UTKRISHT_SUMAN.ipynb) | Public Kaggle notebook; course PR #162 open, unmerged |
 | GPT-2 | [Recipe fine-tuning](module3/labs/gpt2_lora_recipes/A24ARIU0001_GPT2_LORA_RECIPES_LAB_UTKRISHT_SUMAN.ipynb) | Course PR #160 closed, unmerged |
 | Gradio | [Chatbot](module3/labs/gradio_chatbot/A24ARIU0001_GRADIO_CHATBOT_LAB_UTKRISHT_SUMAN.ipynb) | Automated outputs uploaded; partner session pending in draft PR #2 |
 | QLoRA | [DialogSum](module3/labs/qlora/A24ARIU0001_QLORA_DIALOGSUM_LAB_UTKRISHT_SUMAN.ipynb) | Training/automatic evaluation uploaded; six human ratings pending |
@@ -86,10 +86,15 @@ Course PRs [#127](https://github.com/bk-anupam/generative_ai_shared/pull/127)
 and [#160](https://github.com/bk-anupam/generative_ai_shared/pull/160) were closed
 by `bk-anupam` on 11 November, at 13:34:55 and 13:35:30 India time respectively.
 Neither was merged; no explanatory comment was provided. Neither was duplicated
-or reopened. A new course PR attempt for the clean completed-labs branch again
-failed with `Resource not accessible by integration (createPullRequest)`.
+or reopened. Earlier API attempts to create the completed-labs PR failed with
+`Resource not accessible by integration (createPullRequest)`.
 The [clean VAE/GAN/attention/U-Net branch](https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-completed-lab-submissions?expand=1)
-is uploaded and ready for the owner to open its PR. All four notebooks on that
+now has existing [course PR #162](https://github.com/bk-anupam/generative_ai_shared/pull/162),
+opened on 11 November. Its branch was updated with the edited writeups, and its
+diff contains only the four executed notebooks. Supporting result files remain
+on fork master. The PR is open and unmerged; a title/description update was
+rejected with `Resource not accessible by integration` (HTTP 403).
+All four notebooks on that
 branch pass format validation and contain 44 saved code-cell execution counts
 with no recorded errors. Its written explanations are kept in sync with the
 submission copies while preserving the code and saved outputs.
