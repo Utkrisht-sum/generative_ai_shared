@@ -9,6 +9,8 @@
   "folder_basis": "Existing student-submission layout for Modules 1\u20132; corresponding lab topic folders for Module 3.",
   "repository": "Utkrisht-sum/generative_ai_shared",
   "upload_branch": "a24ariu0001-remaining-labs-preparation",
+  "fork_default_branch": "master",
+  "default_branch_notebook_bytes_match_audit": true,
   "verified_remote_commit": "9ee89ddfd118665988862c24eaa726763dbaa7e9",
   "notebook_count": 12,
   "all_notebook_names_valid": true,

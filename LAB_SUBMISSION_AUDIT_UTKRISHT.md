@@ -8,6 +8,12 @@ Submission states were checked again on **11 November 2026 (India)**. All twelve
 local notebook SHA-256 hashes still match the original manifest. Saved model
 outputs and the blank human-evaluation files are unchanged.
 
+The default branch now includes the latest twelve notebooks, supporting evidence
+and the report/rating tools. Their notebook bytes match the audited review
+copies. Preparation templates and training helpers remain on the continuation
+branch. This consolidation does not complete the outstanding human evaluations
+or patent course-platform delivery.
+
 The filename convention is:
 
 ```text

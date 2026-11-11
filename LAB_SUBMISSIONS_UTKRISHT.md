@@ -8,6 +8,11 @@ See the [naming/location audit](LAB_SUBMISSION_AUDIT_UTKRISHT.md) and
 [exact-file manifest](LAB_SUBMISSION_MANIFEST_UTKRISHT.json). All are available
 in their topic directories; draft and course-acceptance states are listed below.
 
+The fork's default branch contains the latest submission notebooks and their
+supporting results. Preparation templates remain on
+`a24ariu0001-remaining-labs-preparation`. QLoRA, Gradio and the patent package
+retain the pending items listed below.
+
 **Submission status checked on 11 November 2026 (India):** course PRs #127 and
 #160 are now closed and unmerged. The maintainer closed them today without an
 explanatory comment. No duplicate or replacement PR was created.
