@@ -9,7 +9,7 @@ the notebooks. Existing lab submissions are kept in their original directories.
 
 ## Current status
 
-Checked on 10 November 2026 (India).
+Submission status checked on 11 November 2026 (India).
 
 | Work | Verified state | Still needed |
 | --- | --- | --- |
@@ -91,15 +91,18 @@ attached wheels, pins working CUDA torch and checks the files of any distributio
 that would be replaced before continuing. Only bootstrap cells changed; training
 and evaluation controls were preserved.
 
-The continuation results are in draft PR #3 in the fork. The course repository also has
-open PR #127 for the Lab 1/Lab 5 corrections and PR #160 for the completed GPT-2
-lab. These open pull requests have not been merged.
+The continuation results are in draft PR #3 in the fork. Course PR #127 for the
+Lab 1/Lab 5 corrections and PR #160 for GPT-2 were closed by the maintainer on
+11 November without merging or an explanatory comment. No duplicate was opened.
 
 The completed U-Net has a separate clean branch based on the course master:
 `a24ariu0001-unet-pet-completed`. Creating its course PR returned
 `Resource not accessible by integration`. The prepared comparison is
 https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-unet-pet-completed?expand=1.
 That branch is ready for a PR; it is not evidence that a PR was created.
+The combined `a24ariu0001-completed-lab-submissions` branch also includes VAE,
+GAN and attention. Its course PR attempt on 11 November returned the same
+integration-permission error.
 
 The authorized Kaggle late submission (58176236) used final notebook version 1
 and completed successfully. The scored version and its inputs are public for

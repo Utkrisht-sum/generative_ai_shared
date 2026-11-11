@@ -1,5 +1,6 @@
 {
   "checked_on": "2026-11-10",
+  "submission_status_checked_on": "2026-11-11",
   "timezone": "Asia/Calcutta",
   "student": "Utkrisht Suman",
   "roll_number": "A24ARIU0001",
@@ -14,6 +15,32 @@
   "all_notebook_remote_blobs_match": true,
   "saved_output_inspection_only": true,
   "course_acceptance_claimed": false,
+  "course_platform_assignment_url": null,
+  "course_platform_search_result": "The current course brief, notebook submission sections, syllabus and public search did not establish an assignment URL.",
+  "course_pr_status": [
+    {
+      "number": 127,
+      "state": "closed",
+      "merged": false,
+      "closed_by": "bk-anupam",
+      "closed_at": "2026-11-11T08:04:55Z"
+    },
+    {
+      "number": 160,
+      "state": "closed",
+      "merged": false,
+      "closed_by": "bk-anupam",
+      "closed_at": "2026-11-11T08:05:30Z"
+    }
+  ],
+  "completed_labs_pr_attempt": {
+    "date": "2026-11-11",
+    "head_branch": "a24ariu0001-completed-lab-submissions",
+    "head_commit": "c8142e81cfcfb7039fa34d7b9c009da0af3a39ac",
+    "result": "Resource not accessible by integration (createPullRequest)",
+    "created": false
+  },
+  "patent_screenshot_status": "Pending: requested signed-in Brave session is not connected to this cloud chat; screenshot_file remains blank.",
   "required_patent_destination": "Course platform: PDF <=4 pages, exact scored Kaggle version link, genuine Submissions-tab screenshot. GitHub is supporting evidence.",
   "kaggle_required_filename_unchanged": "submission.csv",
   "notebooks": [
@@ -31,7 +58,7 @@
       "recorded_code_cells": 10,
       "executed_code_cells": 10,
       "recorded_errors": 0,
-      "course_submission_status": "Course PR #127 open; unmerged"
+      "course_submission_status": "Course PR #127 closed on 2026-11-11; unmerged"
     },
     {
       "lab": "Lab 2",
@@ -95,7 +122,7 @@
       "recorded_code_cells": 33,
       "executed_code_cells": 33,
       "recorded_errors": 0,
-      "course_submission_status": "Course PR #127 open; unmerged"
+      "course_submission_status": "Course PR #127 closed on 2026-11-11; unmerged"
     },
     {
       "lab": "Optional U-Net",
@@ -127,7 +154,7 @@
       "recorded_code_cells": 31,
       "executed_code_cells": 31,
       "recorded_errors": 0,
-      "course_submission_status": "Course PR #160 open; unmerged"
+      "course_submission_status": "Course PR #160 closed on 2026-11-11; unmerged"
     },
     {
       "lab": "Gradio chatbot",

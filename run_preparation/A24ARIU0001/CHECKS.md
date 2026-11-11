@@ -30,10 +30,18 @@ and data variants remain disclosed in the main submission dashboard.
 GitHub authentication and Kaggle SDK authentication now work. The scored patent
 version and its two notebook inputs are public, verified using the official
 metadata API. Quick saves changed visibility without launching new GPU jobs.
-Course PRs #127 and #160 are open and unmerged; Gradio fork PR #2 remains draft.
+Course PRs #127 and #160 were rechecked on 11 November: both are closed and
+unmerged, with no explanatory maintainer comment. Gradio fork PR #2 remains draft.
 The attempt to create a course U-Net PR was denied by integration permissions.
 Its clean comparison branch is pushed; no PR creation or course acceptance is
 claimed. Fork draft PR #3 collects the continuation results.
+The combined VAE/GAN/attention/U-Net branch was checked again: its four notebooks
+have 44 saved executed code cells and no error outputs. Creating its course PR
+also returned `Resource not accessible by integration (createPullRequest)`.
+
+On 11 November the patent verifier passed, the existing four-page draft PDF was
+rendered and inspected, and the default final-report command correctly rejected
+the missing screenshot. All twelve notebook SHA-256 hashes match the manifest.
 
 The required human ratings, real Gradio partner session, official Kaggle UI
 screenshot and course-platform upload remain outside the completed evidence.

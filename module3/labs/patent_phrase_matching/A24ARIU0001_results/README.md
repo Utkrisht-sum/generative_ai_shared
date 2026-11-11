@@ -93,10 +93,13 @@ python run_preparation/A24ARIU0001/tools/patent_report.py \
 
 The default command still rejects a missing screenshot. The explicit
 `--draft-without-screenshot` option creates only a marked `.DRAFT.pdf`; it does
-not declare the project complete. The browser available in this environment
-could not reach an authenticated Submissions tab. No login cookie was supplied.
-The course platform destination/session is also unavailable, so no course upload
-or acceptance is claimed.
+not declare the project complete. On 11 November, the shared cloud browser
+exposed Chrome with no tabs; the requested signed-in Brave session was not
+connected. The saved-results verifier passed, and all four existing draft PDF
+pages were rendered and inspected. The course brief still specifies the course
+platform without an assignment URL; repository and public searches did not
+establish the actual upload destination. The screenshot, final PDF and course
+upload remain pending.
 
 ## Reproduction note
 
