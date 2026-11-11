@@ -1,9 +1,9 @@
 # QLoRA DialogSum results — A24ARIU0001
 
-The training and automatic evaluation completed on one Kaggle T4:
+I trained and evaluated the model on one Kaggle T4:
 https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-qlora-dialogsum/1.
-All 28 nonempty code cells executed without recorded errors. The notebook retains
-the actual outputs; its written answers were updated from those outputs.
+All 28 nonempty code cells completed without recorded errors. The notebook keeps
+the saved outputs, with written answers explaining the results.
 
 | Measure | Base | QLoRA |
 | --- | ---: | ---: |
@@ -24,12 +24,12 @@ percentile bootstrap (10,000 resamples, seed 42) gives a 95% interval of
 10.62–17.97 ROUGE-L points for the mean gain. This interval describes sampling
 the fixed predictions, not variation from retraining the model.
 
-Higher overlap did not remove factual errors. In non-blind example 5, both models
+The examples still contain factual errors. In non-blind example 5, both models
 reverse which person works at the supermarket and which does yard work. The tuned
 summary also omits the recovery of Rusty in example 3. These are qualitative
 observations from the saved dialogues and predictions, not human-rating scores.
 
-The six rows in `blind_ratings.csv` are intentionally unfilled. Actual faithfulness
-and coverage ratings with notes are still required. The human comparison and full
-lab completion remain pending; no human scores or conclusions have been invented.
-Use the provided rating tool without repeating training.
+The six rows in `blind_ratings.csv` still need a human's faithfulness and coverage
+scores, with a note for each example. Until those ratings are collected, the human
+comparison is incomplete. The provided rating tool uses the saved predictions,
+so this step does not require training again.

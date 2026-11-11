@@ -1,10 +1,10 @@
 # Oxford pet U-Net results — A24ARIU0001
 
-The full ten-epoch real-data run completed on Kaggle T4:
+I completed the ten-epoch Oxford-IIIT Pet run on Kaggle T4:
 https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-unet-pet-segmentation?scriptVersionId=367827217.
 This exact saved version is public for instructor access.
-All five code cells executed without recorded errors. The notebook preserves their
-actual outputs, with written findings added after inspecting the figures.
+All five code cells completed without recorded errors. The notebook includes
+the saved outputs and my observations from the prediction figures.
 
 | Split / selection | Dice | IoU |
 | --- | ---: | ---: |
@@ -30,9 +30,9 @@ partly missed and a mirror-area patch is falsely marked. Index 1 (0.8024) misses
 part of the window-side cat's body and paws. These findings refer to the actual
 displayed masks and do not identify the worst examples across the whole test set.
 
-The original smoke-only notebook is preserved in Git history. Its synthetic
-checks have been replaced here by the actual pet-data run. Raw data and checkpoint
-weights are not committed.
+The earlier synthetic smoke checks remain in Git history. This notebook records
+the completed pet-data experiment. Downloaded images and checkpoint weights are
+kept outside the repository.
 
 Data source: [Oxford-IIIT Pet](https://www.robots.ox.ac.uk/~vgg/data/pets/),
 Parkhi et al. (2012), downloaded with torchvision. Architecture follows the

@@ -81,10 +81,10 @@ def build(folder, destination, draft_without_screenshot=False):
     if draft_without_screenshot:
         add('DRAFT: scores verified through Kaggle API; required Submissions-tab screenshot is missing. Course-platform upload remains pending.','SmallLab')
     heading('1. Validation design and baselines')
-    add('The model predicts a continuous similarity score for an anchor-target pair in CPC context. '
-        'The supplied baseline uses DeBERTa-v3-small with a regression head and mean squared error. '
-        'The seed-42 GroupShuffleSplit holds out 20% of anchor groups. Random row splitting would '
-        'allow the same anchor to occur in both sets and could overstate generalization.')
+    add('I used DeBERTa-v3-small to predict similarity for an anchor-target pair in CPC context, '
+        'with a regression head and mean squared error. The seed-42 GroupShuffleSplit holds out '
+        '20% of anchor groups. A random row split could place the same anchor in training and '
+        'validation with different targets, making performance on unseen anchors look better than it is.')
     rows=[['Run / changed factor','Validation r','Training min','Peak GB']]
     for _,r in experiments.iterrows():
         rows.append([str(r['name'])+'\n'+str(r['changed']),f'{r.pearson:.4f}',f'{r.minutes:.2f}',
@@ -95,7 +95,7 @@ def build(folder, destination, draft_without_screenshot=False):
     add(f'The pretrained MiniLM bi-encoder, with no task training, obtained r={embed:.4f}; the fine-tuned cross-encoder obtained '
         f'r={base:.4f} (difference {base-embed:+.4f}). MiniLM encodes each phrase separately and compares '
         'normalized mean-pooled embeddings. The cross-encoder attends jointly across both phrases. '
-        'The comparison changes the checkpoint and training regime together; it cannot isolate the effect of fine-tuning alone.')
+        'The checkpoint and architecture also change, so I cannot attribute the full gap to fine-tuning.')
     add('Training: maximum length 64, batch 32, three epochs, learning rate 2e-5, warmup ratio 0.1, '
         'weight decay 0.01. Timings cover Trainer.train(), including epoch evaluation; MiniLM has no training time. '
         'Peak memory is allocated CUDA memory, excluding other processes and some reserved memory.','SmallLab')
@@ -103,10 +103,10 @@ def build(folder, destination, draft_without_screenshot=False):
     heading('2. Controlled context experiments')
     for name in ('context_none','context_code'):
         row=experiments.set_index('name').loc[name]; delta=float(row.pearson)-base
-        add(f'{name}: only the context representation changes; delta r={delta:+.4f}. '+
-            ('The difference is at most 0.005 and may be seed noise.' if abs(delta)<=.005 else
+        add(f'{name}: I changed only the context representation; delta r={delta:+.4f}. '+
+            ('The difference is below 0.005. Another seed would help check whether it persists.' if abs(delta)<=.005 else
              'This result is for one split and seed, so it is not evidence of a universal improvement.'))
-    add(f"Selected for the final run: {config['name']} using validation r={config['validation_pearson']:.4f}. "
+    add(f"I selected {config['name']} for the final run using validation r={config['validation_pearson']:.4f}. "
         'All variants use the same validation IDs and initial checkpoint. No leaderboard score was used for selection.')
     heading('3. Section and score analysis')
     table([['Section','N','Pearson r']]+[[r.section,int(r.n),'-' if pd.isna(r.pearson) else f'{r.pearson:.4f}']
@@ -115,21 +115,21 @@ def build(folder, destination, draft_without_screenshot=False):
     if len(valid):
         add(f"The lowest measured section is {valid.iloc[0].section} (n={int(valid.iloc[0].n)}). "
             'Five of the ten largest errors are in G. The smallest group, D (199 pairs), is not the lowest. '
-            'Technical relations under coarse context are a hypothesis to investigate, not an established cause.','SmallLab')
+            'Coarse context may leave technical relations ambiguous, but these averages alone cannot explain the errors.','SmallLab')
     table([['True score','N','Mean prediction']]+[[f'{r.score:.2f}',int(r.n),f'{r.mean_pred:.3f}'] for _,r in means.iterrows()], [170,110,171])
     add('Zero labels move inward and 0.75 is underpredicted, but the mean at 1 overshoots: compression is not uniform. '
         'The dominant 0.25/0.5 labels and squared-error regression can contribute to central tendency, but do not explain every group. '
         'These are raw predictions; only submission predictions are clipped to [0,1]. Pearson alone does not establish calibration.','SmallLab')
     story.append(PageBreak())
     heading('4. Largest validation errors')
-    add('These ten pairs have the largest absolute errors for the validation-selected model. Categories and explanations below come from the reviewed error CSV; disagreement alone does not establish that an expert label is wrong.','SmallLab')
+    add('I reviewed the ten largest absolute errors from the validation-selected model and grouped them below. A large prediction error alone is not enough to judge an expert label incorrect.','SmallLab')
     rows=[['Anchor / target / context','True / predicted','Reviewed failure and evidence']]
     for _,r in errors.iterrows():
         text=f'{r.anchor} / {r.target} [{r.context}]'
         evidence=f'{r.failure_type}: {r.evidence}\nLabel debatable: '+('possibly; expert context needed' if r.label_debatable.startswith('Possibly') else 'no clear issue')
         rows.append([text[:150],f'{r.score:.2f} / {r.pred:.3f}',evidence])
     table(rows,[175,65,211])
-    add('The complete unabridged notes and validation predictions accompany this report. Error categories are descriptive observations from these cases; the ten largest errors are not a representative sample of the whole validation set.','SmallLab')
+    add('The companion CSVs contain the full review notes and predictions. These categories describe ten selected failures; they do not show how common each error is across the validation set.','SmallLab')
     story.append(PageBreak())
     heading('5. Late submissions and score comparison')
     table([['Version / status','Public r','Private r']]+[[str(r.version)+' / '+str(r.status),str(r.public_score),str(r.private_score)]
@@ -143,7 +143,7 @@ def build(folder, destination, draft_without_screenshot=False):
         add(f"The final saved run independently reproduces validation r={summary['validation_pearson']:.9f}; "
             f"its Trainer-reported runtime is {summary['trainer_train_runtime_seconds']:.4f} seconds. "
             'For the recorded submission, both hidden scores are lower and the private result is closer to validation.','SmallLab')
-    add('Validation, public and private partitions can differ in anchor mix, CPC sections and size. Selecting settings using validation also introduces selection optimism. The final notebook trains only the validation-selected variant, loads attached local weights with internet off, and writes id,score in submission.csv. The same grouped training budget is retained for reproducibility.')
+    add('Different anchor mixes, CPC sections and partition sizes can contribute to these score gaps. Choosing settings on validation can also make that score optimistic. I kept the validation-selected configuration and training budget for the final notebook. It loads attached weights with internet off and writes the required id,score columns in submission.csv.')
     add('Every submission is listed above, including failures. Version URLs and screenshot evidence:','SmallLab')
     for _,r in ledger.iterrows():
         add(f'{r.version}: {r.notebook_url}\nScreenshot: {r.screenshot_file or "MISSING"}\nNotes: {r.notes}','SmallLab')

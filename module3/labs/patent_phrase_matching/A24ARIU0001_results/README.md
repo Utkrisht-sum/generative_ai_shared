@@ -1,9 +1,9 @@
 # Patent project evidence — A24ARIU0001
 
-The offline experiments, final training run and one Kaggle late submission
-completed on 9 November 2026. The report is a four-page **draft** because the
-required Submissions-tab screenshot is missing. Course-platform upload has not
-been performed.
+I completed the offline experiments, final training run and one Kaggle late
+submission on 9 November 2026. The four-page report remains a **draft** until I
+add the required Submissions-tab screenshot. The course-platform upload is also
+pending.
 
 | Evidence | Saved Kaggle version |
 | --- | --- |
@@ -51,10 +51,11 @@ test labels and external prediction APIs were not used.
 Section G has the lowest validation correlation (0.7062, n=1,040), followed by
 C (0.7692, n=1,177). Five of the ten largest errors belong to G. The smallest
 section, D (n=199), is not the lowest, so sample size alone does not explain this.
-The ten reviewed errors form three groups: relation-sensitive lexical matches
+I grouped the ten reviewed errors into relation-sensitive lexical matches
 (5), technical or part/whole relations (3), and missed functional paraphrases
-(2). Four fragmentary pairs are marked potentially debatable without expert
-context. These observations do not establish causal explanations or bad labels.
+(2). Four fragmentary pairs may need more expert context to interpret their
+labels. The review describes the observed errors without claiming their cause
+or assuming that a large error means the label is wrong.
 
 Score compression is not uniform: mean prediction is 0.1195 for true zero,
 0.6612 for true 0.75, and **1.0247** for true one. The last group overshoots.
