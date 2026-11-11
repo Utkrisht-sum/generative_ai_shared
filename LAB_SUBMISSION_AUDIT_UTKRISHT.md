@@ -4,13 +4,14 @@ Checked **10 November 2026 (India)**. All **12 submission notebooks** are upload
 in the fork's review branch, with matching remote file hashes. They represent ten
 lab topics; the patent project has separate weight, experiment and final files.
 
-Submission states were checked again on **11 November 2026 (India)**. All twelve
-local notebook SHA-256 hashes still match the original manifest. Saved model
-outputs and the blank human-evaluation files are unchanged.
+Submission states and written explanations were reviewed on **11 November 2026
+(India)**. All twelve notebooks received prose edits for clarity. Their code
+cells, execution counts, outputs and metadata match the previously audited
+versions. The manifest records both the original notebook hashes and the hashes
+of the edited files. The human-evaluation CSVs remain blank.
 
 The default branch now includes the latest twelve notebooks, supporting evidence
-and the report/rating tools. Their notebook bytes match the audited review
-copies. Preparation templates and training helpers remain on the continuation
+and the report/rating tools. Preparation templates and training helpers remain on the continuation
 branch. This consolidation does not complete the outstanding human evaluations
 or patent course-platform delivery.
 
@@ -43,12 +44,12 @@ is preserved.
 | Patent experiments | [Controlled experiments](module3/labs/patent_phrase_matching/A24ARIU0001_PATENT_EXPERIMENTS_LAB_UTKRISHT_SUMAN.ipynb) | Public Kaggle experiment evidence |
 | Patent final | [Offline final](module3/labs/patent_phrase_matching/A24ARIU0001_PATENT_FINAL_LAB_UTKRISHT_SUMAN.ipynb) | Kaggle entry complete; screenshot/course upload pending |
 
-The [machine-readable manifest](LAB_SUBMISSION_MANIFEST_UTKRISHT.json) lists every
-exact filename, path, content hash and pinned GitHub URL. It verifies remote commit
-`9ee89ddfd118665988862c24eaa726763dbaa7e9` on
-`a24ariu0001-remaining-labs-preparation`. The default-branch index links to these
-reviewed copies rather than older files. Preparation templates under
-`run_preparation/` are not the executed submissions.
+The [machine-readable manifest](LAB_SUBMISSION_MANIFEST_UTKRISHT.json) lists each
+filename, path, current hash and pinned GitHub URL. It also retains the original
+execution-source commit, `9ee89ddfd118665988862c24eaa726763dbaa7e9`, and a digest
+of every notebook's code cells and saved outputs. The default-branch index links
+to the edited submission copies. Preparation templates on the continuation
+branch are separate from the executed submissions.
 
 ## Fixes made
 
@@ -90,7 +91,8 @@ failed with `Resource not accessible by integration (createPullRequest)`.
 The [clean VAE/GAN/attention/U-Net branch](https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-completed-lab-submissions?expand=1)
 is uploaded and ready for the owner to open its PR. All four notebooks on that
 branch pass format validation and contain 44 saved code-cell execution counts
-with no recorded errors; their bytes match the audited review copies.
+with no recorded errors. Its written explanations are kept in sync with the
+submission copies while preserving the code and saved outputs.
 
 The course repository at `8c8e8595ef51867ef4be168de336bf98a5c8b57c` still specifies
 the course platform for patent delivery but provides no assignment URL. Its

@@ -1,6 +1,6 @@
 # Gradio lab - A24ARIU0001
 
-The notebook and CSVs come from the Kaggle run with Qwen2.5-1.5B-Instruct. The written answers use this run's results. No new inference was run during this review.
+I tested Qwen2.5-1.5B-Instruct on Kaggle. The notebook and CSVs contain that run's outputs, and the written answers explain the results below.
 
 | Run | Passed | Median seconds | Maximum seconds |
 | --- | ---: | ---: | ---: |
@@ -15,4 +15,4 @@ The executed notebook reports Gradio 6.30.0, Transformers 5.20.2 and torch 2.11.
 
 ## Still needed
 
-The partner observation, rating and problem CSVs are blank, and no chat_log.csv was supplied. The app was not launched in this run (RUN_UI=False). The partner session and its findings must be added before this is a complete lab submission.
+The partner observation, rating and problem CSVs remain blank, and the anonymized chat log is missing. This run used `RUN_UI=False`, so it did not launch the app for a partner. I still need that session and its findings to complete the lab.
