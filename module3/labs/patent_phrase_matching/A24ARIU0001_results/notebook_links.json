@@ -1,0 +1,20 @@
+{
+  "a24ariu0001-patent-offline-weights": {
+    "version": 1,
+    "script_version_id": 367823110,
+    "url": "https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-patent-offline-weights?scriptVersionId=367823110",
+    "unauthenticated_http_status": 200
+  },
+  "a24ariu0001-patent-experiments": {
+    "version": 2,
+    "script_version_id": 367832537,
+    "url": "https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-patent-experiments?scriptVersionId=367832537",
+    "unauthenticated_http_status": 200
+  },
+  "a24ariu0001-patent-final": {
+    "version": 1,
+    "script_version_id": 367835971,
+    "url": "https://www.kaggle.com/code/utkrishtsuman/a24ariu0001-patent-final?scriptVersionId=367835971",
+    "unauthenticated_http_status": 200
+  }
+}

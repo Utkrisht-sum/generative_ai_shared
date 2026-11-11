@@ -1,0 +1,52 @@
+{
+  "6af4f2d9506545f2": {
+    "failure_type": "Relation-sensitive lexical match",
+    "evidence": "Reversing 'punch face' to 'face punch' can change a tool surface into an action. The high score is consistent with lexical confusion; its cause is not established.",
+    "label_debatable": "No clear issue: the word order can change the relation."
+  },
+  "f297ea79eab86071": {
+    "failure_type": "Relation-sensitive lexical match",
+    "evidence": "The target inserts 'a' into almost the same content words. The model scores 0.830 despite the zero label.",
+    "label_debatable": "Possibly: the intended boom/cylinder relation needs expert context."
+  },
+  "20a45b67a785caf3": {
+    "failure_type": "Relation-sensitive lexical match",
+    "evidence": "An imaging axis names an axis; imaging of an axis names a process applied to it. The model largely treats them alike.",
+    "label_debatable": "No clear issue: the head and modifier relation differ."
+  },
+  "c9f4b17fdba12548": {
+    "failure_type": "Relation-sensitive lexical match",
+    "evidence": "An imaging axis and an image of an axis need not denote the same thing; adding 'of' changes the relation.",
+    "label_debatable": "No clear issue without a more specific technical definition."
+  },
+  "463717d347b289d7": {
+    "failure_type": "Technical or part-whole relation",
+    "evidence": "The anchor names a pin component while the target adds a material/type. The model misses the annotated strong relation.",
+    "label_debatable": "Possibly: these fragments do not establish an identical component."
+  },
+  "12c1f4b230252489": {
+    "failure_type": "Technical or part-whole relation",
+    "evidence": "A breech mechanism is a component; the target names a breech-loading gun. Related granularity is missed, with prediction 0.005.",
+    "label_debatable": "No clear issue: a strong part/system relation is plausible."
+  },
+  "5ea90f43cb9d6dd6": {
+    "failure_type": "Technical or part-whole relation",
+    "evidence": "Both phrases measure structural size, but 'pore' versus 'cell' needs a technical sense. Prediction 0.040 misses the 0.75 label.",
+    "label_debatable": "Possibly: pore/cell equivalence depends on the material."
+  },
+  "31677aa02d309ada": {
+    "failure_type": "Relation-sensitive lexical match",
+    "evidence": "'Return structure' can name a structure; 'return to structure' expresses a direction/action. The high prediction misses this possible relation change.",
+    "label_debatable": "No clear issue: the added preposition changes the relation."
+  },
+  "30a61bfa59d898d6": {
+    "failure_type": "Functional paraphrase missed",
+    "evidence": "The phrases concern identity versus a customer identifier, but the wording and specificity differ. The model misses annotated relatedness.",
+    "label_debatable": "Possibly: 'whose identity' is too fragmentary to fix its sense."
+  },
+  "d795e6c863847203": {
+    "failure_type": "Functional paraphrase missed",
+    "evidence": "A running tally and a credit total both concern accumulated quantities; little literal overlap accompanies a low prediction.",
+    "label_debatable": "No clear issue: related quantities need not be exact synonyms."
+  }
+}

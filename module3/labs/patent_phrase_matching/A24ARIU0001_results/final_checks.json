@@ -1,0 +1,10 @@
+{
+  "ref": "utkrishtsuman/a24ariu0001-patent-final/1",
+  "validation_pearson": 0.8201944779787197,
+  "visible_test_rows": 36,
+  "csv_ids_match_official_sample": true,
+  "scores_finite_and_bounded": true,
+  "internet": false,
+  "gpu": true,
+  "code_matches_staged": true
+}

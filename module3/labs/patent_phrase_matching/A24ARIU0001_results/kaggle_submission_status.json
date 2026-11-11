@@ -1,0 +1,12 @@
+[
+  {
+    "ref": "58176236",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": "0.7922",
+    "private_score": "0.8084",
+    "description": "A24ARIU0001: validation-selected section-context DeBERTa-v3-small, seed 42, three epochs",
+    "file_name": "submission.csv",
+    "date": "2026-11-09 22:04:20.817000",
+    "error_description": ""
+  }
+]
