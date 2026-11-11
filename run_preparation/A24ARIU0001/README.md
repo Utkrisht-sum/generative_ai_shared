@@ -13,11 +13,11 @@ Submission status checked on 11 November 2026 (India).
 
 | Work | Verified state | Still needed |
 | --- | --- | --- |
-| Labs 1–5 | Submission notebooks exist in the fork | Check the course platform for acceptance; a fork file alone is not submission evidence |
+| Labs 1–5 | Submission notebooks exist in the fork; VAE/GAN/attention are in open course PR #162 | Lab 1/Lab 5 course PR #127 is closed and unmerged; course acceptance remains unverified |
 | GPT-2 recipes | Fork PR #1 is merged; executed notebook and measured evidence are present | No rerun needed |
 | Gradio chatbot | Fork PR #2 is a draft with recorded automated outputs | A real partner session, chat log, observations and ratings |
 | QLoRA DialogSum | T4 training and automatic evaluation completed; ROUGE-L 23.00 → 37.11 | Six genuine human ratings |
-| Optional U-Net | Completed ten-epoch pet run; test Dice 0.8793, IoU 0.7846 | Course pull-request creation is blocked by integration permissions |
+| Optional U-Net | Completed ten-epoch pet run; test Dice 0.8793, IoU 0.7846; course PR #162 open | Instructor review; public Kaggle version is available |
 | Patent project | Four comparisons, error review and offline final completed; Kaggle public/private 0.7922/0.8084 | Submissions-tab screenshot and course-platform upload; four-page draft report is ready |
 
 The course repository's current master does not contain the fork's A24ARIU0001
@@ -101,8 +101,11 @@ The completed U-Net has a separate clean branch based on the course master:
 https://github.com/bk-anupam/generative_ai_shared/compare/master...Utkrisht-sum:generative_ai_shared:a24ariu0001-unet-pet-completed?expand=1.
 That branch is ready for a PR; it is not evidence that a PR was created.
 The combined `a24ariu0001-completed-lab-submissions` branch also includes VAE,
-GAN and attention. Its course PR attempt on 11 November returned the same
-integration-permission error.
+GAN and attention. Initial API attempts to create its course PR returned the same
+integration-permission error. Existing course PR #162 was subsequently found and
+its fork branch updated. The PR now contains only four executed notebooks with
+edited prose; code and saved outputs are unchanged. Course PR title/description
+updates remain blocked by the integration (HTTP 403).
 
 The authorized Kaggle late submission (58176236) used final notebook version 1
 and completed successfully. The scored version and its inputs are public for

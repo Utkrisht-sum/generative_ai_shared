@@ -38,10 +38,15 @@ claimed. Fork draft PR #3 collects the continuation results.
 The combined VAE/GAN/attention/U-Net branch was checked again: its four notebooks
 have 44 saved executed code cells and no error outputs. Creating its course PR
 also returned `Resource not accessible by integration (createPullRequest)`.
+Existing course PR #162 was later found, and its head branch now contains only
+the four edited notebooks. The PR is open and unmerged. Updating its metadata
+was rejected by the integration with HTTP 403.
 
 On 11 November the patent verifier passed, the existing four-page draft PDF was
 rendered and inspected, and the default final-report command correctly rejected
-the missing screenshot. All twelve notebook SHA-256 hashes match the manifest.
+the missing screenshot. All twelve notebook SHA-256 hashes match the updated
+manifest. Prose edits preserve every code cell, saved output and metadata field;
+the manifest retains the original hashes and code/output digests.
 
 The required human ratings, real Gradio partner session, official Kaggle UI
 screenshot and course-platform upload remain outside the completed evidence.
